@@ -1,0 +1,15 @@
+# Install the PyTorch CPU/CUDA build appropriate for your machine first:
+# https://pytorch.org/get-started/locally/
+# This is a dependency list, not an environment lock from a completed run.
+numpy
+pandas
+scikit-learn
+iterative-stratification==0.1.9
+matplotlib
+transformers
+safetensors
+openpyxl
+jupyterlab
+ipykernel
+# For .xls files only: install xlrd separately.
+# For .xlsb files only: install pyxlsb separately.

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="540pt" viewBox="0 0 1008 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-18T23:19:57.955197</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 1008 540 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #f6f9fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.03648 439.8624 
+L 319.37472 439.8624 
+Q 336.79296 439.8624 336.79296 430.5798 
+L 336.79296 111.8772 
+Q 336.79296 102.5946 319.37472 102.5946 
+L 60.03648 102.5946 
+Q 42.61824 102.5946 42.61824 111.8772 
+L 42.61824 430.5798 
+Q 42.61824 439.8624 60.03648 439.8624 
+z
+" clip-path="url(#p5ffb952844)" style="fill: #ffffff; stroke: #d9e4eb; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 379.37088 439.8624 
+L 638.70912 439.8624 
+Q 656.12736 439.8624 656.12736 430.5798 
+L 656.12736 111.8772 
+Q 656.12736 102.5946 638.70912 102.5946 
+L 379.37088 102.5946 
+Q 361.95264 102.5946 361.95264 111.8772 
+L 361.95264 430.5798 
+Q 361.95264 439.8624 379.37088 439.8624 
+z
+" clip-path="url(#p5ffb952844)" style="fill: #ffffff; stroke: #d9e4eb; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 698.70528 439.8624 
+L 958.04352 439.8624 
+Q 975.46176 439.8624 975.46176 430.5798 
+L 975.46176 111.8772 
+Q 975.46176 102.5946 958.04352 102.5946 
+L 698.70528 102.5946 
+Q 681.28704 102.5946 681.28704 111.8772 
+L 681.28704 430.5798 
+Q 681.28704 439.8624 698.70528 439.8624 
+z
+" clip-path="url(#p5ffb952844)" style="fill: #ffffff; stroke: #d9e4eb; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 332.986618 271.2285 
+Q 346.954096 271.2285 358.909112 271.2285 
+" clip-path="url(#p5ffb952844)" style="fill: none; stroke: #117c82; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 352.109112 267.8285 
+L 358.909112 271.2285 
+L 352.109112 274.6285 
+z
+" clip-path="url(#p5ffb952844)" style="fill: #117c82; stroke: #117c82; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 652.321018 271.2285 
+Q 666.288496 271.2285 678.243512 271.2285 
+" clip-path="url(#p5ffb952844)" style="fill: none; stroke: #117c82; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 671.443512 267.8285 
+L 678.243512 271.2285 
+L 671.443512 274.6285 
+z
+" clip-path="url(#p5ffb952844)" style="fill: #117c82; stroke: #117c82; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="49.392" y="45.566062" transform="rotate(-0 49.392 45.566062)">How one post becomes several labels</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6f7f" x="49.392" y="71.488125" transform="rotate(-0 49.392 71.488125)">A fictional example • 30 independent yes/no decisions • four shown below</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="71.64864" y="133.372125" transform="rotate(-0 71.64864 133.372125)">01</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="71.64864" y="162.495469" transform="rotate(-0 71.64864 162.495469)">Text becomes numbers</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="390.98304" y="133.372125" transform="rotate(-0 390.98304 133.372125)">02</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="390.98304" y="162.495469" transform="rotate(-0 390.98304 162.495469)">Numbers gain context</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="710.31744" y="133.372125" transform="rotate(-0 710.31744 133.372125)">03</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="710.31744" y="162.495469" transform="rotate(-0 710.31744 162.495469)">Scores become labels</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(73.584 200.413125)">“I argued with my family</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(73.584 218.409562)">and feel anxious. Can</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(73.584 236.406)">someone offer advice?”</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="73.584" y="289.140937" transform="rotate(-0 73.584 289.140937)">TOKENIZER</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(73.584 315.685781)">Words and word pieces</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(73.584 330.510859)">become vocabulary IDs.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #5b6f7f" transform="translate(73.584 373.851516)">Position information records order.</text>
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #5b6f7f" transform="translate(73.584 386.654992)">A mask identifies padding.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="392.9184" y="198.893437" transform="rotate(-0 392.9184 198.893437)">EMBEDDINGS</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243746" x="392.9184" y="222.327891" transform="rotate(-0 392.9184 222.327891)">Look up learned number vectors.</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="392.9184" y="258.198937" transform="rotate(-0 392.9184 258.198937)">ENCODER BLOCKS</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(392.9184 281.633391)">Attention combines token context.</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(392.9184 295.515055)">Feed-forward layers transform it.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="392.9184" y="345.867937" transform="rotate(-0 392.9184 345.867937)">CLASSIFICATION HEAD</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(392.9184 369.302391)">Produce 30 raw scores (logits).</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #243746" transform="translate(392.9184 383.184055)">Sigmoid maps each to 0–1.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6f7f" x="712.2528" y="198.893437" transform="rotate(-0 712.2528 198.893437)">Example tag</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6f7f" x="871.92" y="198.893437" transform="rotate(-0 871.92 198.893437)">Score</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243746" x="712.2528" y="232.793859" transform="rotate(-0 712.2528 232.793859)">family conflict</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="876.7584" y="233.173781" transform="rotate(-0 876.7584 233.173781)">0.80</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243746" x="712.2528" y="271.471359" transform="rotate(-0 712.2528 271.471359)">anxiety</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="876.7584" y="271.851281" transform="rotate(-0 876.7584 271.851281)">0.69</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243746" x="712.2528" y="310.148859" transform="rotate(-0 712.2528 310.148859)">advice seeking</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #117c82" x="876.7584" y="310.528781" transform="rotate(-0 876.7584 310.528781)">0.65</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243746" x="712.2528" y="348.826359" transform="rotate(-0 712.2528 348.826359)">grief</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6f7f" x="876.7584" y="349.206281" transform="rotate(-0 876.7584 349.206281)">0.23</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #117c82" transform="translate(712.2528 397.134203)">Score ≥ 0.5 → tag present</text>
+    <text style="font-weight: 700; font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #117c82" transform="translate(712.2528 410.283008)">Several tags can be present.</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="59.0688" y="478.891125" transform="rotate(-0 59.0688 478.891125)">During training, compare the 30 scores with reference labels and update model weights.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6f7f" x="59.0688" y="505.734938" transform="rotate(-0 59.0688 505.734938)">These scores illustrate the process. They were not produced by a trained project model.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5ffb952844">
+   <rect x="25.2" y="10.8" width="967.68" height="515.7"/>
+  </clipPath>
+ </defs>
+</svg>
