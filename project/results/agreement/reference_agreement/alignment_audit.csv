@@ -1,0 +1,4 @@
+rater,rows,shared_ids,a_only_ids,b_only_ids
+Reference,3522.0,,,
+Agreement,301.0,,,
+Reference vs Agreement,,301.0,3221.0,0.0

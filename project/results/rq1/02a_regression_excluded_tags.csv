@@ -1,0 +1,3 @@
+field,tag,reason
+relationships,community,at least one group has < 5 positives
+responses,other,total positive < 30; at least one group has < 5 positives

@@ -1,0 +1,19 @@
+metric,value
+Source worksheet,ground_truth
+Codebook version,MINDMINER Master Annotation Final Version codebook
+Rows in source,3522
+Unique posts in analysis,3519
+Repeated texts removed,3
+Review metadata used for filtering,False
+Excluded review flagged,False
+Codebook-defined tags,31
+Observed tags,30
+Positive tags without evidence,0
+Evidence quotes not exact normalized text substrings (informational),1443
+Tags included in nominal regression,29
+Regression converged,True
+Methods run,Prevalence + nominal logistic regression
+Group: Neither,1122
+Group: TBe only,1251
+Group: PBu only,472
+Group: Both,674

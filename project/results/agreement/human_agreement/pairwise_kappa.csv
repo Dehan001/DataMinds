@@ -1,0 +1,103 @@
+﻿annotator_a,annotator_b,field,label,n_posts,cohen_kappa,agreement_pct,a_positive_n,b_positive_n
+Annotator A,Annotator B,belong,present,300,1.0,100.0,155.0,155.0
+Annotator A,Annotator C,belong,present,300,1.0,100.0,155.0,155.0
+Annotator B,Annotator C,belong,present,300,1.0,100.0,155.0,155.0
+Annotator A,Annotator B,burden,present,300,1.0,100.0,97.0,97.0
+Annotator A,Annotator C,burden,present,300,1.0,100.0,97.0,97.0
+Annotator B,Annotator C,burden,present,300,1.0,100.0,97.0,97.0
+Annotator A,Annotator B,group,categorical,300,1.0,100.0,NA,NA
+Annotator A,Annotator C,group,categorical,300,1.0,100.0,NA,NA
+Annotator B,Annotator C,group,categorical,300,1.0,100.0,NA,NA
+Annotator A,Annotator B,stressors,family conflict,300,0.8957298907646475,97.66666666666667,37.0,40.0
+Annotator A,Annotator C,stressors,family conflict,300,0.9553128103277061,99.0,37.0,40.0
+Annotator B,Annotator C,stressors,family conflict,300,0.8557692307692307,96.66666666666667,40.0,40.0
+Annotator A,Annotator B,stressors,breakup or romance,300,0.8461064943059403,96.66666666666667,41.0,33.0
+Annotator A,Annotator C,stressors,breakup or romance,300,0.9860178970917226,99.66666666666667,41.0,42.0
+Annotator B,Annotator C,stressors,breakup or romance,300,0.8631386861313869,97.0,33.0,42.0
+Annotator A,Annotator B,stressors,social isolation,300,0.8306148055207027,94.0,70.0,68.0
+Annotator A,Annotator C,stressors,social isolation,300,0.9907292954264524,99.66666666666667,70.0,71.0
+Annotator B,Annotator C,stressors,social isolation,300,0.8408438397203845,94.33333333333334,68.0,71.0
+Annotator A,Annotator B,stressors,financial,300,0.7288503253796096,98.33333333333333,12.0,7.0
+Annotator A,Annotator C,stressors,financial,300,0.9196141479099679,99.33333333333333,12.0,14.0
+Annotator B,Annotator C,stressors,financial,300,0.6559633027522935,97.66666666666667,7.0,14.0
+Annotator A,Annotator B,stressors,study,300,0.8957091775923719,97.66666666666667,39.0,38.0
+Annotator A,Annotator C,stressors,study,300,0.9851013110846245,99.66666666666667,39.0,38.0
+Annotator B,Annotator C,stressors,study,300,0.879469666532744,97.33333333333334,38.0,38.0
+Annotator A,Annotator B,stressors,work,300,0.8778998778998779,98.0,27.0,27.0
+Annotator A,Annotator C,stressors,work,300,1.0,100.0,27.0,27.0
+Annotator B,Annotator C,stressors,work,300,0.8778998778998779,98.0,27.0,27.0
+Annotator A,Annotator B,stressors,health,300,0.8391636509851226,92.0,141.0,137.0
+Annotator A,Annotator C,stressors,health,300,0.9732369864846782,98.66666666666667,141.0,141.0
+Annotator B,Annotator C,stressors,health,300,0.8391636509851226,92.0,137.0,141.0
+Annotator A,Annotator B,stressors,grief,300,0.6575342465753424,98.0,12.0,6.0
+Annotator A,Annotator C,stressors,grief,300,1.0,100.0,12.0,12.0
+Annotator B,Annotator C,stressors,grief,300,0.6575342465753424,98.0,6.0,12.0
+Annotator A,Annotator B,stressors,abuse,300,0.7759103641456583,97.33333333333334,23.0,15.0
+Annotator A,Annotator C,stressors,abuse,300,0.976915974145891,99.66666666666667,23.0,24.0
+Annotator B,Annotator C,stressors,abuse,300,0.7540983606557377,97.0,15.0,24.0
+Annotator A,Annotator B,stressors,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator C,stressors,other,300,NA,100.0,0.0,0.0
+Annotator B,Annotator C,stressors,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator B,relationships,partner,300,0.9255065554231228,98.33333333333333,38.0,39.0
+Annotator A,Annotator C,relationships,partner,300,0.9851013110846245,99.66666666666667,38.0,39.0
+Annotator B,Annotator C,relationships,partner,300,0.9115826702033598,98.0,39.0,39.0
+Annotator A,Annotator B,relationships,family,300,0.9503995591071921,98.0,85.0,83.0
+Annotator A,Annotator C,relationships,family,300,1.0,100.0,85.0,85.0
+Annotator B,Annotator C,relationships,family,300,0.9503995591071921,98.0,83.0,85.0
+Annotator A,Annotator B,relationships,friend,300,0.9560889929742389,98.66666666666667,56.0,56.0
+Annotator A,Annotator C,relationships,friend,300,0.9890972525076319,99.66666666666667,56.0,57.0
+Annotator B,Annotator C,relationships,friend,300,0.9454862625381596,98.33333333333333,56.0,57.0
+Annotator A,Annotator B,relationships,peer,300,0.8185483870967742,99.0,7.0,10.0
+Annotator A,Annotator C,relationships,peer,300,1.0,100.0,7.0,7.0
+Annotator B,Annotator C,relationships,peer,300,0.8185483870967742,99.0,10.0,7.0
+Annotator A,Annotator B,relationships,workplace,300,0.830028328611898,99.33333333333333,5.0,7.0
+Annotator A,Annotator C,relationships,workplace,300,1.0,100.0,5.0,5.0
+Annotator B,Annotator C,relationships,workplace,300,0.830028328611898,99.33333333333333,7.0,5.0
+Annotator A,Annotator B,relationships,community,300,0.3902439024390244,97.0,3.0,12.0
+Annotator A,Annotator C,relationships,community,300,1.0,100.0,3.0,3.0
+Annotator B,Annotator C,relationships,community,300,0.3902439024390244,97.0,12.0,3.0
+Annotator A,Annotator B,relationships,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator C,relationships,other,300,NA,100.0,0.0,0.0
+Annotator B,Annotator C,relationships,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator B,emotions,loneliness,300,0.9154044473090558,97.66666666666667,53.0,46.0
+Annotator A,Annotator C,emotions,loneliness,300,1.0,100.0,53.0,53.0
+Annotator B,Annotator C,emotions,loneliness,300,0.9154044473090558,97.66666666666667,46.0,53.0
+Annotator A,Annotator B,emotions,guilt,300,0.6818181818181819,93.0,30.0,45.0
+Annotator A,Annotator C,emotions,guilt,300,0.9468085106382979,99.0,30.0,33.0
+Annotator B,Annotator C,emotions,guilt,300,0.6769456681350954,92.66666666666666,45.0,33.0
+Annotator A,Annotator B,emotions,shame,300,0.8479569211276529,94.66666666666667,65.0,71.0
+Annotator A,Annotator C,emotions,shame,300,0.9615754082612872,98.66666666666667,65.0,69.0
+Annotator B,Annotator C,emotions,shame,300,0.8323085522638345,94.0,71.0,69.0
+Annotator A,Annotator B,emotions,sadness,300,0.8818611414031261,95.66666666666667,76.0,69.0
+Annotator A,Annotator C,emotions,sadness,300,0.973681132296175,99.0,76.0,77.0
+Annotator B,Annotator C,emotions,sadness,300,0.8733948272743715,95.33333333333334,69.0,77.0
+Annotator A,Annotator B,emotions,anxiety,300,0.837473879730671,95.33333333333334,47.0,57.0
+Annotator A,Annotator C,emotions,anxiety,300,0.9874937468734367,99.66666666666667,47.0,48.0
+Annotator B,Annotator C,emotions,anxiety,300,0.8271092669432918,95.0,57.0,48.0
+Annotator A,Annotator B,emotions,anger,300,0.775840597758406,92.0,58.0,80.0
+Annotator A,Annotator C,emotions,anger,300,0.967296511627907,99.0,58.0,55.0
+Annotator B,Annotator C,emotions,anger,300,0.7444794952681388,91.0,80.0,55.0
+Annotator A,Annotator B,emotions,hopelessness,300,0.6229829588297391,83.33333333333334,117.0,71.0
+Annotator A,Annotator C,emotions,hopelessness,300,0.9378109452736318,97.0,117.0,126.0
+Annotator B,Annotator C,emotions,hopelessness,300,0.5850320326150262,81.0,71.0,126.0
+Annotator A,Annotator B,emotions,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator C,emotions,other,300,NA,100.0,0.0,0.0
+Annotator B,Annotator C,emotions,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator B,responses,advice seeking,300,0.710604929051531,89.66666666666666,83.0,54.0
+Annotator A,Annotator C,responses,advice seeking,300,0.9752910169119262,99.0,83.0,86.0
+Annotator B,Annotator C,responses,advice seeking,300,0.706529713866471,89.33333333333333,54.0,86.0
+Annotator A,Annotator B,responses,emotional support seeking,300,0.5665108372290693,88.66666666666667,37.0,55.0
+Annotator A,Annotator C,responses,emotional support seeking,300,0.9698704429044893,99.33333333333333,37.0,39.0
+Annotator B,Annotator C,responses,emotional support seeking,300,0.5734002509410289,88.66666666666667,55.0,39.0
+Annotator A,Annotator B,responses,professional help,300,0.8737506575486585,97.33333333333334,37.0,35.0
+Annotator A,Annotator C,responses,professional help,300,0.9553128103277061,99.0,37.0,40.0
+Annotator B,Annotator C,responses,professional help,300,0.8324873096446701,96.33333333333334,35.0,40.0
+Annotator A,Annotator B,responses,withdrawal,300,0.5817843866171004,88.0,56.0,48.0
+Annotator A,Annotator C,responses,withdrawal,300,0.9454862625381596,98.33333333333333,56.0,57.0
+Annotator B,Annotator C,responses,withdrawal,300,0.5274319963116644,86.33333333333333,48.0,57.0
+Annotator A,Annotator B,responses,positive coping,300,0.6509598603839442,94.66666666666667,26.0,24.0
+Annotator A,Annotator C,responses,positive coping,300,0.9157776530039303,98.66666666666667,26.0,26.0
+Annotator B,Annotator C,responses,positive coping,300,0.6073298429319371,94.0,24.0,26.0
+Annotator A,Annotator B,responses,other,300,NA,100.0,0.0,0.0
+Annotator A,Annotator C,responses,other,300,NA,100.0,0.0,0.0
+Annotator B,Annotator C,responses,other,300,NA,100.0,0.0,0.0

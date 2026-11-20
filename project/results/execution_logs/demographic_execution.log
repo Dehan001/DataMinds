@@ -1,0 +1,29 @@
+START Dataminds_RQ3_analysis.ipynb
+Dataminds_RQ3_analysis.ipynb completed cell 3
+Dataminds_RQ3_analysis.ipynb completed cell 4
+Dataminds_RQ3_analysis.ipynb completed cell 5
+FAILED Dataminds_RQ3_analysis.ipynb Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.
+Traceback (most recent call last):
+  File "/workspace/scratch/b633a1463206/execute_notebooks.py", line 77, in <module>
+    if error: raise error
+              ^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/IPython/core/interactiveshell.py", line 3823, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-1-97daa819a8f2>", line 10, in <module>
+    raise FileNotFoundError("Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.")
+FileNotFoundError: Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.
+START Dataminds_RQ4_analysis.ipynb
+Dataminds_RQ4_analysis.ipynb completed cell 3
+Dataminds_RQ4_analysis.ipynb completed cell 4
+Dataminds_RQ4_analysis.ipynb completed cell 5
+Dataminds_RQ4_analysis.ipynb completed cell 6
+FAILED Dataminds_RQ4_analysis.ipynb Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.
+Traceback (most recent call last):
+  File "/workspace/scratch/b633a1463206/execute_notebooks.py", line 77, in <module>
+    if error: raise error
+              ^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/IPython/core/interactiveshell.py", line 3823, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-1-81031674cdc7>", line 12, in <module>
+    raise FileNotFoundError("Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.")
+FileNotFoundError: Add the original manual age/gender CSV and set MINDMINER_DEMOGRAPHICS_FILE.

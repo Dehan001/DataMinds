@@ -1,0 +1,11 @@
+label,precision,recall,f1-score,support
+advice seeking,0.0,0.0,0.0,656.0
+emotional support seeking,0.0,0.0,0.0,355.0
+professional help,0.0,0.0,0.0,366.0
+withdrawal,0.0,0.0,0.0,465.0
+positive coping,0.0,0.0,0.0,143.0
+other,0.0,0.0,0.0,0.0
+micro avg,0.0,0.0,0.0,1985.0
+macro avg,0.0,0.0,0.0,1985.0
+weighted avg,0.0,0.0,0.0,1985.0
+samples avg,0.0,0.0,0.0,1985.0

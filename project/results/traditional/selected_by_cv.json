@@ -1,0 +1,4 @@
+{
+  "model": "LogisticRegression",
+  "selection_metric": "mean development macro F1"
+}

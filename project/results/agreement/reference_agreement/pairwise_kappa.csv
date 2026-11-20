@@ -1,0 +1,35 @@
+﻿annotator_a,annotator_b,field,label,n_posts,cohen_kappa,agreement_pct,a_positive_n,b_positive_n
+Reference,Agreement,belong,present,301,1.0,100.0,155.0,155.0
+Reference,Agreement,burden,present,301,1.0,100.0,97.0,97.0
+Reference,Agreement,group,categorical,301,1.0,100.0,NA,NA
+Reference,Agreement,stressors,family conflict,301,0.95533461937973,99.00332225913621,40.0,37.0
+Reference,Agreement,stressors,breakup or romance,301,0.9723294723294723,99.33554817275747,42.0,42.0
+Reference,Agreement,stressors,social isolation,301,0.9174563515037021,97.00996677740864,72.0,71.0
+Reference,Agreement,stressors,financial,301,0.8980237154150198,99.00332225913621,14.0,17.0
+Reference,Agreement,stressors,study,301,0.9562986981561244,99.00332225913621,38.0,41.0
+Reference,Agreement,stressors,work,301,1.0,100.0,27.0,27.0
+Reference,Agreement,stressors,health,301,0.960065451972404,98.00664451827242,142.0,146.0
+Reference,Agreement,stressors,grief,301,1.0,100.0,12.0,12.0
+Reference,Agreement,stressors,abuse,301,0.9127662657585857,98.67109634551495,24.0,26.0
+Reference,Agreement,stressors,other,301,0.15163472378804965,96.67774086378738,8.0,4.0
+Reference,Agreement,relationships,partner,301,1.0,100.0,39.0,39.0
+Reference,Agreement,relationships,family,301,0.9918319719953326,99.66777408637874,85.0,86.0
+Reference,Agreement,relationships,friend,301,1.0,100.0,57.0,57.0
+Reference,Agreement,relationships,peer,301,0.8716417910447761,99.33554817275747,7.0,9.0
+Reference,Agreement,relationships,workplace,301,1.0,100.0,5.0,5.0
+Reference,Agreement,relationships,community,301,0.5664906385021604,99.00332225913621,3.0,4.0
+Reference,Agreement,relationships,other,301,0.28618857901726436,83.38870431893687,57.0,21.0
+Reference,Agreement,emotions,loneliness,301,0.9774345902991228,99.33554817275747,53.0,55.0
+Reference,Agreement,emotions,guilt,301,0.9650365896155186,99.33554817275747,31.0,33.0
+Reference,Agreement,emotions,shame,301,0.970066629098021,99.00332225913621,62.0,65.0
+Reference,Agreement,emotions,sadness,301,0.9653983216461662,98.67109634551495,76.0,80.0
+Reference,Agreement,emotions,anxiety,301,0.987710774507002,99.66777408637874,49.0,48.0
+Reference,Agreement,emotions,anger,301,0.9342028563101137,98.00664451827242,54.0,58.0
+Reference,Agreement,emotions,hopelessness,301,0.8813669348294809,94.35215946843853,125.0,108.0
+Reference,Agreement,emotions,other,301,0.33554083885209707,91.36212624584718,18.0,24.0
+Reference,Agreement,responses,advice seeking,301,0.8732204532052902,95.01661129568106,88.0,73.0
+Reference,Agreement,responses,emotional support seeking,301,0.35788681139415235,88.70431893687709,38.0,20.0
+Reference,Agreement,responses,professional help,301,0.942342687482042,98.67109634551495,41.0,39.0
+Reference,Agreement,responses,withdrawal,301,0.525942777145857,88.03986710963456,55.0,33.0
+Reference,Agreement,responses,positive coping,301,0.8976886471787899,98.67109634551495,23.0,19.0
+Reference,Agreement,responses,other,301,NA,100.0,0.0,0.0

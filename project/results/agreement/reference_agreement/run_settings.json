@@ -1,0 +1,51 @@
+{
+  "input_sha256": "24712f6534ba5c47781f5f7e932275f17a4fef464509b265d4709c8d6dde3842",
+  "sheet_map": {
+    "Reference": "ground_truth",
+    "Agreement": "agreement_version"
+  },
+  "id_columns": [
+    "post_id"
+  ],
+  "codebook_version": "2.0",
+  "codebook_sha256": "12dd884b5fdc827b071c830355afcb39d212a1439094f7f16c8894c07010fd21",
+  "target_labels": [
+    "stressors::family conflict",
+    "stressors::breakup or romance",
+    "stressors::social isolation",
+    "stressors::financial",
+    "stressors::study",
+    "stressors::work",
+    "stressors::health",
+    "stressors::grief",
+    "stressors::abuse",
+    "stressors::other",
+    "relationships::partner",
+    "relationships::family",
+    "relationships::friend",
+    "relationships::peer",
+    "relationships::workplace",
+    "relationships::community",
+    "relationships::other",
+    "emotions::loneliness",
+    "emotions::guilt",
+    "emotions::shame",
+    "emotions::sadness",
+    "emotions::anxiety",
+    "emotions::anger",
+    "emotions::hopelessness",
+    "emotions::other",
+    "responses::advice seeking",
+    "responses::emotional support seeking",
+    "responses::professional help",
+    "responses::withdrawal",
+    "responses::positive coping",
+    "responses::other"
+  ],
+  "single_fields": [
+    "belong",
+    "burden",
+    "group"
+  ],
+  "blank_multilabel_is_empty": true
+}

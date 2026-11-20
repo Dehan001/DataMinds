@@ -1,0 +1,12 @@
+Final workbook: 3,522 ground_truth rows; modeling export: /workspace/scratch/b633a1463206/work/mindminer/data/processed/final_dataset.csv
+START 08_psychosocial_profiles.ipynb
+08_psychosocial_profiles.ipynb completed cell 3
+08_psychosocial_profiles.ipynb completed cell 5
+08_psychosocial_profiles.ipynb completed cell 7
+08_psychosocial_profiles.ipynb completed cell 9
+08_psychosocial_profiles.ipynb completed cell 11
+08_psychosocial_profiles.ipynb completed cell 12
+08_psychosocial_profiles.ipynb completed cell 14
+08_psychosocial_profiles.ipynb completed cell 15
+08_psychosocial_profiles.ipynb completed cell 17
+COMPLETE 08_psychosocial_profiles.ipynb {'status': 'completed', 'elapsed_seconds': 8.02, 'code_cells': 9}

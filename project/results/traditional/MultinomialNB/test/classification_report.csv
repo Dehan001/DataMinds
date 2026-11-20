@@ -1,0 +1,36 @@
+label,precision,recall,f1-score,support
+stressors::family conflict,0.0,0.0,0.0,126.0
+stressors::breakup or romance,0.0,0.0,0.0,149.0
+stressors::social isolation,1.0,0.003048780487804878,0.0060790273556231,328.0
+stressors::financial,0.0,0.0,0.0,92.0
+stressors::study,0.0,0.0,0.0,117.0
+stressors::work,0.0,0.0,0.0,131.0
+stressors::health,0.7026022304832714,0.7339805825242719,0.717948717948718,515.0
+stressors::grief,0.0,0.0,0.0,37.0
+stressors::abuse,0.0,0.0,0.0,74.0
+stressors::other,0.0,0.0,0.0,22.0
+relationships::partner,0.0,0.0,0.0,137.0
+relationships::family,0.0,0.0,0.0,266.0
+relationships::friend,0.0,0.0,0.0,203.0
+relationships::peer,0.0,0.0,0.0,25.0
+relationships::workplace,0.0,0.0,0.0,43.0
+relationships::community,0.0,0.0,0.0,9.0
+relationships::other,0.0,0.0,0.0,199.0
+emotions::loneliness,0.0,0.0,0.0,228.0
+emotions::guilt,0.0,0.0,0.0,84.0
+emotions::shame,0.0,0.0,0.0,219.0
+emotions::sadness,0.0,0.0,0.0,281.0
+emotions::anxiety,0.0,0.0,0.0,201.0
+emotions::anger,0.0,0.0,0.0,138.0
+emotions::hopelessness,0.7754010695187166,0.5906313645621182,0.6705202312138728,491.0
+emotions::other,0.0,0.0,0.0,67.0
+responses::advice seeking,0.0,0.0,0.0,265.0
+responses::emotional support seeking,0.0,0.0,0.0,147.0
+responses::professional help,0.0,0.0,0.0,154.0
+responses::withdrawal,0.0,0.0,0.0,213.0
+responses::positive coping,0.0,0.0,0.0,60.0
+responses::other,0.0,0.0,0.0,0.0
+micro avg,0.732749178532311,0.13324039036048596,0.22548028311425683,5021.0
+macro avg,0.07993559032264477,0.042827765405619195,0.044985418597361736,5021.0
+weighted avg,0.2132169037706781,0.13324039036048596,0.13960624262940563,5021.0
+samples avg,0.5586565752128666,0.15731789234627455,0.22528063279218044,5021.0

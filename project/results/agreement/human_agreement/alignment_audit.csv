@@ -1,0 +1,7 @@
+rater,rows,shared_ids,a_only_ids,b_only_ids
+Annotator A,300.0,,,
+Annotator B,300.0,,,
+Annotator C,300.0,,,
+Annotator A vs Annotator B,,300.0,0.0,0.0
+Annotator A vs Annotator C,,300.0,0.0,0.0
+Annotator B vs Annotator C,,300.0,0.0,0.0

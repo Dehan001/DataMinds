@@ -1,0 +1,13 @@
+                           precision    recall  f1-score   support
+
+           advice seeking     0.7043    0.6174    0.6580       656
+emotional support seeking     0.5707    0.3070    0.3993       355
+        professional help     0.7303    0.4809    0.5799       366
+               withdrawal     0.5238    0.3785    0.4395       465
+          positive coping     0.0000    0.0000    0.0000       143
+                    other     0.0000    0.0000    0.0000         0
+
+                micro avg     0.6434    0.4363    0.5200      1985
+                macro avg     0.4215    0.2973    0.3461      1985
+             weighted avg     0.5922    0.4363    0.4987      1985
+              samples avg     0.2604    0.2398    0.2400      1985

@@ -1,0 +1,71 @@
+START 04_traditional_text_classification.ipynb
+04_traditional_text_classification.ipynb completed cell 3
+04_traditional_text_classification.ipynb completed cell 5
+04_traditional_text_classification.ipynb completed cell 7
+04_traditional_text_classification.ipynb completed cell 9
+04_traditional_text_classification.ipynb completed cell 11
+04_traditional_text_classification.ipynb completed cell 13
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+04_traditional_text_classification.ipynb completed cell 17
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/multiclass.py:90: UserWarning: Label not 30 is present in all training examples.
+  warnings.warn(
+04_traditional_text_classification.ipynb completed cell 19
+04_traditional_text_classification.ipynb completed cell 21
+COMPLETE 04_traditional_text_classification.ipynb {'status': 'completed', 'elapsed_seconds': 806.54, 'code_cells': 9}

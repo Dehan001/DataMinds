@@ -1,0 +1,12 @@
+label,precision,recall,f1-score,support
+partner,0.0,0.0,0.0,137.0
+family,0.0,0.0,0.0,266.0
+friend,0.0,0.0,0.0,203.0
+peer,0.0,0.0,0.0,25.0
+workplace,0.0,0.0,0.0,43.0
+community,0.0,0.0,0.0,9.0
+other,0.0,0.0,0.0,199.0
+micro avg,0.0,0.0,0.0,882.0
+macro avg,0.0,0.0,0.0,882.0
+weighted avg,0.0,0.0,0.0,882.0
+samples avg,0.0,0.0,0.0,882.0

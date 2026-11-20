@@ -1,0 +1,5 @@
+﻿annotator_a,annotator_b,field,n_posts,n_both_empty,exact_set_agreement_pct,mean_jaccard,n_posts_either_nonempty,mean_jaccard_either_nonempty,macro_mean_label_kappa,n_defined_label_kappas,n_declared_labels,n_observed_labels
+Reference,Agreement,stressors,301,55,87.37541528239203,0.9242524916943521,246,0.9073170731707316,0.8723909298303087,10,10,10
+Reference,Agreement,relationships,301,112,82.05980066445183,0.8560354374307861,189,0.7707231040564373,0.8165932829370762,7,7,7
+Reference,Agreement,emotions,301,53,81.06312292358804,0.8944075304540422,248,0.8718413978494622,0.8770946918946902,8,8,8
+Reference,Agreement,responses,301,126,72.75747508305648,0.7851605758582502,175,0.6304761904761905,0.7194162752812263,5,6,5

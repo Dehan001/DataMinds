@@ -1,0 +1,17 @@
+START 05_transformer_text_classification.ipynb
+05_transformer_text_classification.ipynb completed cell 3
+05_transformer_text_classification.ipynb completed cell 7
+05_transformer_text_classification.ipynb completed cell 9
+05_transformer_text_classification.ipynb completed cell 12
+05_transformer_text_classification.ipynb completed cell 14
+05_transformer_text_classification.ipynb completed cell 16
+FAILED 05_transformer_text_classification.ipynb No module named 'torch'
+Traceback (most recent call last):
+  File "/workspace/scratch/b633a1463206/execute_notebooks.py", line 77, in <module>
+    if error: raise error
+              ^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/IPython/core/interactiveshell.py", line 3823, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-1-3f935a0871a9>", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

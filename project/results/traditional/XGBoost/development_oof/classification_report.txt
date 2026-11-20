@@ -1,0 +1,38 @@
+                                      precision    recall  f1-score   support
+
+          stressors::family conflict     0.6353    0.3364    0.4399       321
+       stressors::breakup or romance     0.8014    0.3435    0.4809       329
+         stressors::social isolation     0.7524    0.6452    0.6947       730
+                stressors::financial     0.7629    0.3756    0.5034       197
+                    stressors::study     0.7037    0.3598    0.4762       264
+                     stressors::work     0.6882    0.4961    0.5766       258
+                   stressors::health     0.8378    0.7041    0.7651      1159
+                    stressors::grief     1.0000    0.0143    0.0282        70
+                    stressors::abuse     0.9474    0.1034    0.1865       174
+                    stressors::other     0.0000    0.0000    0.0000        49
+              relationships::partner     0.8966    0.4348    0.5856       299
+               relationships::family     0.9078    0.8548    0.8805       668
+               relationships::friend     0.8257    0.8950    0.8590       524
+                 relationships::peer     1.0000    0.0164    0.0323        61
+            relationships::workplace     1.0000    0.0290    0.0563        69
+            relationships::community     0.0000    0.0000    0.0000        26
+                relationships::other     0.7292    0.1981    0.3116       530
+                emotions::loneliness     0.8139    0.6624    0.7304       548
+                     emotions::guilt     0.8958    0.2098    0.3399       205
+                     emotions::shame     0.7965    0.3636    0.4993       506
+                   emotions::sadness     0.7795    0.4264    0.5513       605
+                   emotions::anxiety     0.8514    0.6340    0.7268       470
+                     emotions::anger     0.7576    0.2287    0.3513       328
+              emotions::hopelessness     0.7814    0.7239    0.7515      1101
+                     emotions::other     0.5417    0.0828    0.1436       157
+           responses::advice seeking     0.7937    0.4985    0.6124       656
+responses::emotional support seeking     0.6554    0.2732    0.3857       355
+        responses::professional help     0.8468    0.5137    0.6395       366
+               responses::withdrawal     0.7007    0.2215    0.3366       465
+          responses::positive coping     0.0000    0.0000    0.0000       143
+                    responses::other     0.0000    0.0000    0.0000         0
+
+                           micro avg     0.7993    0.5027    0.6172     11633
+                           macro avg     0.7001    0.3434    0.4176     11633
+                        weighted avg     0.7777    0.5027    0.5826     11633
+                         samples avg     0.6732    0.4494    0.5147     11633

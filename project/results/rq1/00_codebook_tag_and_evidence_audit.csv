@@ -1,0 +1,32 @@
+field,tag,codebook_active,observed_positive_posts,status,evidence_header,positive_posts_with_evidence,positive_posts_missing_evidence,evidence_not_exact_substring_n,requires_manual_semantic_check
+stressors,family conflict,True,447,observed,evidence_stressors_family_conflict,447,0,46,False
+stressors,breakup or romance,True,478,observed,evidence_stressors_breakup_or_romance,478,0,47,False
+stressors,social isolation,True,1058,observed,evidence_stressors_social_isolation,1058,0,96,False
+stressors,financial,True,289,observed,evidence_stressors_financial,289,0,32,False
+stressors,study,True,381,observed,evidence_stressors_study,381,0,44,False
+stressors,work,True,389,observed,evidence_stressors_work,389,0,38,False
+stressors,health,True,1674,observed,evidence_stressors_health,1674,0,159,False
+stressors,grief,True,107,observed,evidence_stressors_grief,107,0,12,False
+stressors,abuse,True,248,observed,evidence_stressors_abuse,248,0,19,False
+stressors,other,True,71,observed,evidence_stressors_,71,0,7,False
+relationships,partner,True,436,observed,evidence_relationships_partner,436,0,26,False
+relationships,family,True,934,observed,evidence_relationships_family,934,0,65,False
+relationships,friend,True,727,observed,evidence_relationships_friend,727,0,37,False
+relationships,peer,True,86,observed,evidence_relationships_peer,86,0,9,False
+relationships,workplace,True,112,observed,evidence_relationships_workplace,112,0,11,False
+relationships,community,True,35,observed,evidence_relationships_community,35,0,5,False
+relationships,other,True,729,observed,evidence_relationships_unspecified,729,0,37,True
+emotions,loneliness,True,776,observed,evidence_emotions_loneliness,776,0,68,False
+emotions,guilt,True,289,observed,evidence_emotions_guilt,289,0,26,False
+emotions,shame,True,725,observed,evidence_emotions_shame,725,0,70,False
+emotions,sadness,True,886,observed,evidence_emotions_sadness,886,0,64,False
+emotions,anxiety,True,671,observed,evidence_emotions_anxiety,671,0,71,False
+emotions,anger,True,466,observed,evidence_emotions_anger,466,0,31,False
+emotions,hopelessness,True,1592,observed,evidence_emotions_hopelessness,1592,0,200,False
+emotions,other,True,224,observed,evidence_emotions_,224,0,19,False
+responses,advice seeking,True,921,observed,evidence_responses_advice_seeking,921,0,46,False
+responses,emotional support seeking,True,502,observed,evidence_responses_emotional_support_seeking,502,0,25,False
+responses,professional help,True,520,observed,evidence_responses_professional_help,520,0,51,False
+responses,withdrawal,True,678,observed,evidence_responses_withdrawal,678,0,70,False
+responses,positive coping,True,203,observed,evidence_responses_positive_coping,203,0,12,False
+responses,other,True,0,not observed (not testable),NOT IN WORKBOOK,0,0,0,False

@@ -1,0 +1,20 @@
+{
+  "workbook": "data/final_dataset.xlsx",
+  "sheet": "ground_truth",
+  "rows": 3522,
+  "input_columns": 11,
+  "previous_modeling_csv_sha256": "5ea9dd768b5e0d56adad0a87fea9d861dd28854b8bfd27f9e62eb312b5ea0d60",
+  "final_modeling_csv_sha256": "5ea9dd768b5e0d56adad0a87fea9d861dd28854b8bfd27f9e62eb312b5ea0d60",
+  "byte_for_byte_identical": true,
+  "retained_results": [
+    "six traditional classifiers including five-fold CV and held-out tests",
+    "factor cooccurrence and association mining"
+  ],
+  "recomputed": [
+    "human agreement from final workbook",
+    "ground_truth versus agreement_version on 301 posts",
+    "EDA from final ground_truth text_clean",
+    "human versus ground_truth on 300 shared posts",
+    "RQ1 directly from final ground_truth evidence"
+  ]
+}

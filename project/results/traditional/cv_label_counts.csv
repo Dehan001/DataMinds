@@ -1,0 +1,156 @@
+fold,label,train_positives,validation_positives
+1,stressors::family conflict,257,64
+1,stressors::breakup or romance,263,66
+1,stressors::social isolation,586,144
+1,stressors::financial,157,40
+1,stressors::study,211,53
+1,stressors::work,206,52
+1,stressors::health,931,228
+1,stressors::grief,56,14
+1,stressors::abuse,139,35
+1,stressors::other,39,10
+1,relationships::partner,239,60
+1,relationships::family,534,134
+1,relationships::friend,419,105
+1,relationships::peer,49,12
+1,relationships::workplace,55,14
+1,relationships::community,21,5
+1,relationships::other,426,104
+1,emotions::loneliness,439,109
+1,emotions::guilt,164,41
+1,emotions::shame,405,101
+1,emotions::sadness,486,119
+1,emotions::anxiety,380,90
+1,emotions::anger,263,65
+1,emotions::hopelessness,878,223
+1,emotions::other,125,32
+1,responses::advice seeking,527,129
+1,responses::emotional support seeking,286,69
+1,responses::professional help,292,74
+1,responses::withdrawal,372,93
+1,responses::positive coping,115,28
+1,responses::other,0,0
+2,stressors::family conflict,257,64
+2,stressors::breakup or romance,263,66
+2,stressors::social isolation,581,149
+2,stressors::financial,158,39
+2,stressors::study,212,52
+2,stressors::work,206,52
+2,stressors::health,931,228
+2,stressors::grief,56,14
+2,stressors::abuse,140,34
+2,stressors::other,40,9
+2,relationships::partner,239,60
+2,relationships::family,535,133
+2,relationships::friend,419,105
+2,relationships::peer,49,12
+2,relationships::workplace,55,14
+2,relationships::community,20,6
+2,relationships::other,427,103
+2,emotions::loneliness,437,111
+2,emotions::guilt,164,41
+2,emotions::shame,404,102
+2,emotions::sadness,485,120
+2,emotions::anxiety,380,90
+2,emotions::anger,263,65
+2,emotions::hopelessness,872,229
+2,emotions::other,126,31
+2,responses::advice seeking,526,130
+2,responses::emotional support seeking,281,74
+2,responses::professional help,293,73
+2,responses::withdrawal,372,93
+2,responses::positive coping,114,29
+2,responses::other,0,0
+3,stressors::family conflict,257,64
+3,stressors::breakup or romance,264,65
+3,stressors::social isolation,586,144
+3,stressors::financial,157,40
+3,stressors::study,211,53
+3,stressors::work,207,51
+3,stressors::health,931,228
+3,stressors::grief,56,14
+3,stressors::abuse,139,35
+3,stressors::other,39,10
+3,relationships::partner,240,59
+3,relationships::family,534,134
+3,relationships::friend,420,104
+3,relationships::peer,49,12
+3,relationships::workplace,55,14
+3,relationships::community,21,5
+3,relationships::other,415,115
+3,emotions::loneliness,439,109
+3,emotions::guilt,164,41
+3,emotions::shame,405,101
+3,emotions::sadness,478,127
+3,emotions::anxiety,377,93
+3,emotions::anger,262,66
+3,emotions::hopelessness,884,217
+3,emotions::other,125,32
+3,responses::advice seeking,519,137
+3,responses::emotional support seeking,281,74
+3,responses::professional help,293,73
+3,responses::withdrawal,372,93
+3,responses::positive coping,114,29
+3,responses::other,0,0
+4,stressors::family conflict,257,64
+4,stressors::breakup or romance,263,66
+4,stressors::social isolation,586,144
+4,stressors::financial,158,39
+4,stressors::study,211,53
+4,stressors::work,206,52
+4,stressors::health,925,234
+4,stressors::grief,56,14
+4,stressors::abuse,139,35
+4,stressors::other,39,10
+4,relationships::partner,239,60
+4,relationships::family,534,134
+4,relationships::friend,419,105
+4,relationships::peer,48,13
+4,relationships::workplace,55,14
+4,relationships::community,21,5
+4,relationships::other,426,104
+4,emotions::loneliness,439,109
+4,emotions::guilt,164,41
+4,emotions::shame,405,101
+4,emotions::sadness,486,119
+4,emotions::anxiety,363,107
+4,emotions::anger,262,66
+4,emotions::hopelessness,885,216
+4,emotions::other,126,31
+4,responses::advice seeking,526,130
+4,responses::emotional support seeking,286,69
+4,responses::professional help,293,73
+4,responses::withdrawal,372,93
+4,responses::positive coping,114,29
+4,responses::other,0,0
+5,stressors::family conflict,256,65
+5,stressors::breakup or romance,263,66
+5,stressors::social isolation,581,149
+5,stressors::financial,158,39
+5,stressors::study,211,53
+5,stressors::work,207,51
+5,stressors::health,918,241
+5,stressors::grief,56,14
+5,stressors::abuse,139,35
+5,stressors::other,39,10
+5,relationships::partner,239,60
+5,relationships::family,535,133
+5,relationships::friend,419,105
+5,relationships::peer,49,12
+5,relationships::workplace,56,13
+5,relationships::community,21,5
+5,relationships::other,426,104
+5,emotions::loneliness,438,110
+5,emotions::guilt,164,41
+5,emotions::shame,405,101
+5,emotions::sadness,485,120
+5,emotions::anxiety,380,90
+5,emotions::anger,262,66
+5,emotions::hopelessness,885,216
+5,emotions::other,126,31
+5,responses::advice seeking,526,130
+5,responses::emotional support seeking,286,69
+5,responses::professional help,293,73
+5,responses::withdrawal,372,93
+5,responses::positive coping,115,28
+5,responses::other,0,0

@@ -1,0 +1,47 @@
+Final workbook: 3,522 ground_truth rows; modeling export: /workspace/scratch/b633a1463206/work/mindminer/data/processed/final_dataset.csv
+START 01_human_annotation_agreement.ipynb
+01_human_annotation_agreement.ipynb completed cell 3
+01_human_annotation_agreement.ipynb completed cell 5
+01_human_annotation_agreement.ipynb completed cell 6
+01_human_annotation_agreement.ipynb completed cell 8
+01_human_annotation_agreement.ipynb completed cell 10
+01_human_annotation_agreement.ipynb completed cell 12
+01_human_annotation_agreement.ipynb completed cell 14
+01_human_annotation_agreement.ipynb completed cell 16
+01_human_annotation_agreement.ipynb completed cell 17
+COMPLETE 01_human_annotation_agreement.ipynb {'status': 'completed', 'elapsed_seconds': 2.94, 'code_cells': 9}
+START 02_reference_agreement.ipynb
+02_reference_agreement.ipynb completed cell 3
+02_reference_agreement.ipynb completed cell 5
+02_reference_agreement.ipynb completed cell 6
+02_reference_agreement.ipynb completed cell 8
+02_reference_agreement.ipynb completed cell 10
+02_reference_agreement.ipynb completed cell 12
+02_reference_agreement.ipynb completed cell 14
+02_reference_agreement.ipynb completed cell 16
+02_reference_agreement.ipynb completed cell 17
+02_reference_agreement.ipynb completed cell 18
+COMPLETE 02_reference_agreement.ipynb {'status': 'completed', 'elapsed_seconds': 3.18, 'code_cells': 10}
+START 03_exploratory_text_analysis.ipynb
+03_exploratory_text_analysis.ipynb completed cell 3
+03_exploratory_text_analysis.ipynb completed cell 4
+03_exploratory_text_analysis.ipynb completed cell 6
+03_exploratory_text_analysis.ipynb completed cell 8
+03_exploratory_text_analysis.ipynb completed cell 10
+03_exploratory_text_analysis.ipynb completed cell 12
+03_exploratory_text_analysis.ipynb completed cell 14
+COMPLETE 03_exploratory_text_analysis.ipynb {'status': 'completed', 'elapsed_seconds': 6.11, 'code_cells': 7}
+START 07_human_reference_agreement.ipynb
+07_human_reference_agreement.ipynb completed cell 2
+COMPLETE 07_human_reference_agreement.ipynb {'status': 'completed', 'elapsed_seconds': 2.28, 'code_cells': 1}
+START 08_psychosocial_profiles.ipynb
+08_psychosocial_profiles.ipynb completed cell 3
+08_psychosocial_profiles.ipynb completed cell 5
+08_psychosocial_profiles.ipynb completed cell 7
+08_psychosocial_profiles.ipynb completed cell 9
+08_psychosocial_profiles.ipynb completed cell 11
+08_psychosocial_profiles.ipynb completed cell 12
+08_psychosocial_profiles.ipynb completed cell 14
+08_psychosocial_profiles.ipynb completed cell 15
+08_psychosocial_profiles.ipynb completed cell 17
+COMPLETE 08_psychosocial_profiles.ipynb {'status': 'completed', 'elapsed_seconds': 6.62, 'code_cells': 9}

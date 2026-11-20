@@ -1,0 +1,17 @@
+                    precision    recall  f1-score   support
+
+   family conflict     0.6176    0.6462    0.6316        65
+breakup or romance     0.5606    0.5606    0.5606        66
+  social isolation     0.7067    0.7114    0.7090       149
+         financial     0.6552    0.4872    0.5588        39
+             study     0.5818    0.6038    0.5926        53
+              work     0.6078    0.6078    0.6078        51
+            health     0.7741    0.7676    0.7708       241
+             grief     1.0000    0.1429    0.2500        14
+             abuse     0.4545    0.2857    0.3509        35
+             other     0.0000    0.0000    0.0000        10
+
+         micro avg     0.6804    0.6418    0.6605       723
+         macro avg     0.5958    0.4813    0.5032       723
+      weighted avg     0.6726    0.6418    0.6493       723
+       samples avg     0.5086    0.4994    0.4822       723

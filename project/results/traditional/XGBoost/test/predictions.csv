@@ -1,0 +1,1058 @@
+post_id,orig_row_id,split,belong,burden,group,true_stressors,pred_stressors,true_relationships,pred_relationships,true_emotions,pred_emotions,true_responses,pred_responses
+2465,3186,test,0,0,Neither,health,health,,,,,advice seeking; professional help,advice seeking; professional help
+2466,1886,test,1,1,Both,health,,,,anxiety; hopelessness,anxiety,emotional support seeking,
+2467,2966,test,1,1,Both,social isolation; health,social isolation; health,other,other,loneliness; anxiety; hopelessness,hopelessness,professional help; withdrawal,professional help
+2468,3429,test,1,1,Both,social isolation; study,social isolation,,,loneliness; shame; sadness; anxiety; hopelessness,loneliness; shame; hopelessness,,
+2469,139,test,0,0,Neither,,,,,sadness; hopelessness,hopelessness,advice seeking; withdrawal,advice seeking; withdrawal
+2470,3205,test,1,0,TBe only,family conflict; other,family conflict; social isolation,family; other,family,anger,,,
+2471,2670,test,1,0,TBe only,,,,,anxiety,anxiety,emotional support seeking,
+2472,393,test,1,1,Both,abuse,social isolation,partner,partner,shame; hopelessness,hopelessness,,
+2473,2284,test,1,0,TBe only,,,,,,,emotional support seeking,
+2474,3195,test,1,0,TBe only,social isolation,,other,,loneliness; hopelessness,hopelessness,,
+2475,893,test,1,1,Both,social isolation; health,social isolation; health,,,sadness; anger; hopelessness; other,sadness; anxiety; hopelessness,withdrawal,
+2476,1315,test,1,0,TBe only,family conflict; breakup or romance; work,work,partner; family; workplace,family,loneliness; anxiety; anger; hopelessness,loneliness; shame; hopelessness,professional help,
+2477,179,test,1,0,TBe only,social isolation,,,family,loneliness; sadness; hopelessness,loneliness; sadness; hopelessness,withdrawal,emotional support seeking; withdrawal
+2478,527,test,1,0,TBe only,health,,,,,,,
+2479,1334,test,0,0,Neither,,,,,,,,
+2480,3510,test,1,1,Both,social isolation; health,,family,family,loneliness; hopelessness,loneliness; hopelessness,,
+2481,1421,test,0,0,Neither,,health,,,shame; anxiety; hopelessness,shame,,
+2482,742,test,0,0,Neither,breakup or romance; health,breakup or romance; health,partner,partner,guilt,guilt; shame; sadness; anxiety,advice seeking,advice seeking
+2483,2194,test,1,0,TBe only,breakup or romance; social isolation,social isolation,partner; family,family; friend,hopelessness,hopelessness,,
+2484,2887,test,1,0,TBe only,family conflict; social isolation; work; health,family conflict; social isolation; health,family; workplace,family,anger; hopelessness,anger; hopelessness,,emotional support seeking
+2485,3179,test,1,0,TBe only,social isolation,family conflict; social isolation,family; friend,family; friend,loneliness; sadness,,emotional support seeking; positive coping,
+2486,2185,test,1,0,TBe only,social isolation; financial; health,social isolation,,friend,hopelessness,,,
+2487,2830,test,0,0,Neither,financial; work; health,financial,partner; family,partner; family,guilt; anger; hopelessness,guilt; hopelessness,,
+2488,1807,test,0,0,Neither,,health,,,,,emotional support seeking,emotional support seeking
+2489,1436,test,0,0,Neither,health,work; health,other,other,sadness; hopelessness,,professional help,professional help
+2490,2743,test,0,1,PBu only,health,health,,,sadness; hopelessness,sadness; hopelessness,professional help,professional help
+2491,1871,test,1,0,TBe only,breakup or romance; social isolation,social isolation,partner; family; friend,family; friend,loneliness; hopelessness,hopelessness,emotional support seeking,
+2492,410,test,1,0,TBe only,health,family conflict; health,partner; family,family,hopelessness,guilt; hopelessness,professional help; positive coping,
+2493,1509,test,0,0,Neither,family conflict; work,family conflict; health,family,family,anger,sadness,,advice seeking
+2494,1022,test,1,0,TBe only,social isolation,social isolation,friend,friend,loneliness; sadness,loneliness; hopelessness,,
+2495,93,test,1,0,TBe only,social isolation; health,social isolation,other,,loneliness; shame; anxiety; hopelessness,loneliness; anxiety,withdrawal,
+2496,291,test,1,1,Both,health,social isolation; health,friend,friend,sadness,loneliness; sadness,advice seeking,advice seeking; withdrawal
+2497,712,test,0,1,PBu only,health,,,,hopelessness,hopelessness,,
+2498,289,test,0,0,Neither,social isolation; health; abuse,health,friend,family; friend,,,advice seeking,advice seeking
+2499,756,test,0,1,PBu only,social isolation; financial; work; health,financial; work; health,friend; other,friend,shame; anxiety; hopelessness,anxiety; anger,professional help,
+2500,70,test,1,0,TBe only,family conflict; social isolation; work; health,social isolation; study; work; health,family; peer; workplace,family,loneliness; anger; hopelessness,loneliness; sadness; hopelessness,emotional support seeking,
+2501,1583,test,0,0,Neither,health,,,,anxiety,anxiety,advice seeking,
+2502,2757,test,0,0,Neither,family conflict,family conflict,family,family,anxiety,anxiety,withdrawal,
+2503,3085,test,0,1,PBu only,,,,,sadness; hopelessness,sadness; hopelessness,,
+2504,544,test,1,1,Both,health,social isolation; health,friend,friend,,sadness; hopelessness,emotional support seeking; positive coping,
+2505,810,test,0,0,Neither,health,,,,anxiety; hopelessness,anxiety,withdrawal,
+2506,1938,test,1,0,TBe only,family conflict; financial; work; health,family conflict; financial; work; health,family,family,anxiety,anxiety; hopelessness,advice seeking; professional help,advice seeking; professional help
+2507,1721,test,0,0,Neither,,,,,,,advice seeking,advice seeking
+2508,2210,test,1,0,TBe only,family conflict; social isolation,family conflict; social isolation; work,family; friend,family; friend,loneliness; shame; anger,loneliness; shame; anger,emotional support seeking,emotional support seeking
+2509,2288,test,1,0,TBe only,grief,health,family; other,family,,,withdrawal,
+2510,657,test,1,1,Both,,,,,sadness; hopelessness,hopelessness,,
+2511,2897,test,0,0,Neither,,,,,sadness,,,
+2512,2107,test,1,0,TBe only,social isolation,social isolation,friend,,loneliness; hopelessness,loneliness,emotional support seeking,
+2513,1361,test,0,0,Neither,,social isolation,,family; friend,,,,advice seeking
+2514,809,test,0,0,Neither,health,social isolation,,,anxiety,anxiety,advice seeking; withdrawal,advice seeking
+2515,2430,test,1,0,TBe only,family conflict,family conflict,family,family; friend,hopelessness,,withdrawal,
+2516,1309,test,0,0,Neither,breakup or romance,breakup or romance,friend,friend,,,,
+2517,2083,test,0,0,Neither,family conflict; financial; health; abuse,family conflict; financial; health,family,family,sadness; anger; hopelessness,hopelessness,advice seeking,advice seeking
+2518,2704,test,1,0,TBe only,social isolation,,,,anger,,,
+2519,2947,test,1,1,Both,family conflict; social isolation; study,family conflict; social isolation; study,family,family,shame; sadness; anxiety; hopelessness,shame; sadness; anxiety; hopelessness,withdrawal,
+2520,387,test,1,1,Both,family conflict; social isolation; study; health,social isolation; health,family; friend,family; friend,loneliness; shame; sadness; anxiety; hopelessness,sadness; anxiety; hopelessness,emotional support seeking,withdrawal
+2521,2403,test,0,1,PBu only,,,,,shame; hopelessness,hopelessness,,
+2522,3326,test,0,0,Neither,health,health,,,sadness; anxiety,,professional help,
+2523,1465,test,0,0,Neither,,social isolation; health,,friend,,,,
+2524,2800,test,1,1,Both,,social isolation,,other,shame; sadness; hopelessness,loneliness; shame; sadness; hopelessness,,advice seeking
+2525,26,test,0,0,Neither,,,,,shame; hopelessness,shame,,
+2526,1971,test,0,1,PBu only,breakup or romance,,partner,,sadness; hopelessness,hopelessness,advice seeking,
+2527,211,test,1,0,TBe only,family conflict; social isolation,social isolation,family; friend,friend,,hopelessness,,
+2528,2383,test,0,0,Neither,,social isolation,,,anxiety,anxiety,,
+2529,1200,test,1,0,TBe only,work; health,financial; work; health,workplace,other,,,advice seeking; emotional support seeking,advice seeking
+2530,32,test,0,0,Neither,health,social isolation; health,,family,sadness; anxiety; hopelessness,sadness; anxiety; hopelessness,emotional support seeking,emotional support seeking
+2531,2728,test,0,1,PBu only,,,,,shame; hopelessness,hopelessness,,
+2532,51,test,1,0,TBe only,social isolation,social isolation,family,family,loneliness,loneliness; shame,emotional support seeking; positive coping,
+2533,857,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,sadness; anxiety,sadness; anxiety,advice seeking,advice seeking; withdrawal
+2534,1737,test,1,0,TBe only,health,,,family; friend,shame; other,hopelessness,advice seeking,
+2535,321,test,1,0,TBe only,breakup or romance,,other,,,,,
+2536,596,test,1,0,TBe only,financial; health,health,,,sadness,,advice seeking; emotional support seeking,advice seeking
+2537,2903,test,1,0,TBe only,social isolation; work,social isolation; work,,,hopelessness,hopelessness,withdrawal; positive coping,
+2538,298,test,1,0,TBe only,financial; study,social isolation,family,family,,hopelessness,emotional support seeking,
+2539,2519,test,0,0,Neither,,work,,,shame,,positive coping,
+2540,2981,test,1,0,TBe only,family conflict; financial; work; health,family conflict; financial; health,family,family,,hopelessness,advice seeking,advice seeking
+2541,2580,test,0,1,PBu only,family conflict; social isolation; abuse,health,family; friend,family; friend,shame; hopelessness,anxiety,withdrawal,withdrawal
+2542,2594,test,0,1,PBu only,breakup or romance; health,family conflict; breakup or romance,partner; family; friend,partner; family; friend,anxiety; hopelessness,guilt,,
+2543,486,test,1,0,TBe only,health; grief,family conflict; health,family; workplace,partner; family,other,anxiety,advice seeking; professional help,
+2544,1778,test,0,0,Neither,other,breakup or romance,friend,friend,anxiety; hopelessness,anxiety; hopelessness,emotional support seeking,
+2545,3400,test,1,1,Both,work; other,social isolation; health,,,loneliness; sadness; anger; hopelessness,loneliness; sadness; hopelessness,,
+2546,976,test,0,0,Neither,,,,,,,emotional support seeking,
+2547,1477,test,1,0,TBe only,breakup or romance; social isolation,breakup or romance; social isolation,partner; friend,friend,loneliness; hopelessness,loneliness; hopelessness,emotional support seeking; professional help,advice seeking; professional help
+2548,889,test,1,0,TBe only,social isolation; health,health,friend,friend,anxiety; anger,anxiety,emotional support seeking,
+2549,3467,test,0,1,PBu only,,social isolation,family,family,,,,
+2550,1666,test,1,0,TBe only,breakup or romance,,other,,anger,,emotional support seeking,emotional support seeking
+2551,999,test,1,0,TBe only,social isolation; health,social isolation,,,loneliness; sadness,loneliness; sadness,,
+2552,3349,test,1,1,Both,family conflict; health; abuse,family conflict; study; health; abuse,family,family,loneliness; sadness; anger,shame; sadness,,
+2553,2765,test,1,1,Both,family conflict; study; health,family conflict; study; health,family; other,family,,,emotional support seeking,emotional support seeking
+2554,358,test,1,1,Both,social isolation; health; grief,social isolation; health,family; friend; other,family; friend,loneliness; sadness; anxiety; hopelessness,loneliness; anxiety; hopelessness,professional help,professional help
+2555,3047,test,1,0,TBe only,social isolation; health; abuse,breakup or romance; social isolation; health,partner; family; other,partner,loneliness; sadness; anxiety,loneliness; sadness; anxiety; hopelessness,emotional support seeking; withdrawal,withdrawal
+2556,937,test,0,1,PBu only,,,,,hopelessness,,,
+2557,3033,test,1,0,TBe only,family conflict,social isolation,family,family,hopelessness,loneliness; sadness; hopelessness,withdrawal,
+2558,2270,test,1,1,Both,,,,,shame; hopelessness,,,
+2559,501,test,1,1,Both,family conflict; grief,,family; friend,friend,shame; sadness; hopelessness; other,shame; anger; hopelessness,withdrawal,
+2560,952,test,1,1,Both,family conflict; social isolation; health; abuse,social isolation; health,family,family; friend,loneliness; guilt; shame; sadness; anxiety; hopelessness,sadness; hopelessness,withdrawal,withdrawal
+2561,744,test,1,1,Both,social isolation; health,social isolation; health,other,family,loneliness; hopelessness,loneliness; hopelessness,emotional support seeking; professional help,professional help
+2562,927,test,1,1,Both,breakup or romance; social isolation; financial; work; grief; abuse,social isolation,family; friend; peer,family,loneliness; shame; sadness; anger; hopelessness,loneliness; hopelessness,,
+2563,1578,test,0,1,PBu only,,social isolation,,other,hopelessness,hopelessness,,
+2564,805,test,0,0,Neither,,,,,,,,
+2565,325,test,0,0,Neither,health,,,,,,,
+2566,2459,test,0,1,PBu only,health,financial; health,other,,hopelessness,hopelessness,,
+2567,1378,test,1,1,Both,breakup or romance; financial; health,health,partner; other,,guilt; shame; anxiety,shame; anxiety,advice seeking; professional help,advice seeking; professional help; withdrawal
+2568,2345,test,1,0,TBe only,breakup or romance; social isolation,social isolation,other,family; friend,loneliness; shame; sadness; hopelessness,loneliness; hopelessness,emotional support seeking; withdrawal,
+2569,3482,test,0,0,Neither,health,,other,other,,,professional help; positive coping,
+2570,2851,test,1,1,Both,family conflict; health,health,family,family,shame; hopelessness,shame; hopelessness,,advice seeking
+2571,229,test,0,0,Neither,financial; health,health,,,sadness; anxiety; hopelessness,anxiety,advice seeking; professional help; positive coping,advice seeking; professional help
+2572,2927,test,0,1,PBu only,,,,,,,advice seeking,emotional support seeking
+2573,479,test,1,0,TBe only,breakup or romance,,partner,partner,anger; hopelessness,loneliness; anger,,
+2574,1113,test,0,0,Neither,,,,,,,,
+2575,912,test,0,1,PBu only,,,,family,,,,
+2576,134,test,0,0,Neither,health,,other,other,,,professional help,professional help
+2577,295,test,0,0,Neither,work; health,,,,,,professional help,
+2578,1972,test,1,0,TBe only,social isolation; work; health,social isolation; work,friend; workplace,friend,loneliness; sadness; anger; hopelessness,loneliness,,
+2579,612,test,1,0,TBe only,breakup or romance; social isolation; study; health,,partner; other,,loneliness; guilt; anxiety; anger; hopelessness,loneliness; shame; anxiety; anger; hopelessness,emotional support seeking,
+2580,1456,test,1,1,Both,health,social isolation; health,,,loneliness; hopelessness,loneliness,,
+2581,693,test,1,1,Both,health,social isolation; health,friend,friend,anxiety; hopelessness,hopelessness,emotional support seeking,emotional support seeking
+2582,315,test,1,0,TBe only,work; health,work; health,,family,sadness; anxiety,hopelessness,,
+2583,1423,test,0,1,PBu only,family conflict,family conflict,family,family,guilt,hopelessness,advice seeking,advice seeking
+2584,1351,test,0,0,Neither,,,,,,,,
+2585,1064,test,0,0,Neither,,,,,,,,
+2586,2788,test,0,1,PBu only,,,,,anxiety; hopelessness,anxiety,,
+2587,1586,test,1,0,TBe only,family conflict; study; work; health,family conflict; work; health,family,family,anger; hopelessness,hopelessness,professional help; withdrawal,
+2588,1134,test,1,0,TBe only,health,social isolation,,,,loneliness,,emotional support seeking
+2589,1196,test,1,0,TBe only,breakup or romance; health,breakup or romance; health,partner,other,sadness,,advice seeking; professional help; withdrawal,professional help
+2590,2059,test,1,0,TBe only,social isolation; health,breakup or romance; social isolation; health,friend; community,partner; friend,loneliness,loneliness; hopelessness,emotional support seeking,advice seeking; emotional support seeking
+2591,2046,test,0,0,Neither,health,social isolation; health,friend,friend,,,,advice seeking
+2592,144,test,0,0,Neither,health,health,family,family,anxiety; hopelessness,hopelessness,advice seeking; positive coping,advice seeking
+2593,3263,test,1,1,Both,family conflict,,family; friend,family,hopelessness,sadness; hopelessness,advice seeking; emotional support seeking,
+2594,52,test,1,0,TBe only,health,social isolation; health,,,sadness; anger,loneliness; hopelessness,emotional support seeking; withdrawal,emotional support seeking; withdrawal
+2595,415,test,0,0,Neither,work; health,health,community,,anxiety; hopelessness,anxiety,advice seeking; emotional support seeking,advice seeking
+2596,1795,test,1,0,TBe only,family conflict; social isolation; health,work; health,family; other,,loneliness; sadness; hopelessness,loneliness; hopelessness,emotional support seeking; professional help; withdrawal,advice seeking; professional help
+2597,862,test,1,0,TBe only,social isolation,social isolation,other,,hopelessness,loneliness,withdrawal,
+2598,2144,test,1,0,TBe only,social isolation,social isolation,friend,friend,loneliness; anger,anger,,
+2599,817,test,0,1,PBu only,financial,,partner,,hopelessness,hopelessness,,
+2600,1344,test,1,0,TBe only,health,health,family,family,,hopelessness,advice seeking,advice seeking; professional help
+2601,2186,test,1,0,TBe only,breakup or romance; work,breakup or romance; work,partner,partner,hopelessness,shame; hopelessness,,withdrawal
+2602,2341,test,1,0,TBe only,social isolation,social isolation; study,friend,friend,loneliness; hopelessness; other,loneliness; hopelessness,advice seeking; withdrawal,
+2603,2452,test,0,1,PBu only,health,,,,sadness; hopelessness,,,
+2604,76,test,1,0,TBe only,breakup or romance; social isolation; health,social isolation; health,other,,loneliness,loneliness,,
+2605,3454,test,1,0,TBe only,social isolation,,other,,guilt; shame; hopelessness,hopelessness,,
+2606,184,test,1,0,TBe only,family conflict; breakup or romance; abuse,health,family; peer,family,sadness,,,
+2607,17,test,1,0,TBe only,social isolation,,,,loneliness,loneliness,emotional support seeking,emotional support seeking
+2608,729,test,0,1,PBu only,,,,,,hopelessness,,
+2609,1429,test,1,0,TBe only,family conflict; social isolation; study; work; health,financial; work; health,family; workplace,family; workplace,loneliness; sadness; anxiety,hopelessness,advice seeking,advice seeking
+2610,3397,test,0,0,Neither,health,,,,,,withdrawal,withdrawal
+2611,1106,test,0,1,PBu only,financial; study; health,study; work; health,family; friend,family; friend,guilt; sadness; hopelessness,hopelessness,advice seeking; withdrawal,advice seeking; professional help
+2612,203,test,0,1,PBu only,breakup or romance; financial; health,,partner,,guilt; hopelessness,,advice seeking,advice seeking
+2613,1231,test,1,0,TBe only,social isolation; study; health,health,other,,loneliness; hopelessness,loneliness; sadness; anxiety,withdrawal,withdrawal
+2614,3125,test,1,0,TBe only,family conflict; financial; abuse,breakup or romance; social isolation; abuse,family; friend; other,family; friend,shame; hopelessness,shame; hopelessness,professional help; withdrawal,withdrawal
+2615,948,test,1,0,TBe only,social isolation,,other,,loneliness,,,
+2616,879,test,1,0,TBe only,work; health; grief,family conflict; work,family,family,sadness,,,
+2617,439,test,0,0,Neither,health,health,,,,sadness,advice seeking; professional help,professional help
+2618,3278,test,1,0,TBe only,social isolation,,friend,friend,guilt; hopelessness,hopelessness,,
+2619,314,test,1,1,Both,family conflict; health,health,partner; family,partner; family,anxiety,anxiety,advice seeking; professional help,advice seeking; professional help
+2620,2545,test,0,0,Neither,study; abuse,social isolation,other,other,shame; anger,shame,,
+2621,402,test,1,1,Both,study; health,health,other,,sadness,,emotional support seeking,
+2622,1801,test,1,0,TBe only,family conflict; financial; work; health; abuse,financial; health,family,family,anxiety; hopelessness,anxiety; anger; hopelessness,,
+2623,322,test,1,1,Both,family conflict; social isolation; financial; study,financial; study,family; friend,family; friend,loneliness; shame; hopelessness; other,shame; hopelessness,withdrawal,
+2624,1558,test,0,0,Neither,health,health,,,,,advice seeking,advice seeking
+2625,2674,test,1,0,TBe only,health,health,,,hopelessness; other,hopelessness,,
+2626,2541,test,0,0,Neither,abuse,,other,,anger,,,advice seeking
+2627,3311,test,1,1,Both,social isolation,,,,anger; hopelessness,hopelessness,,
+2628,270,test,0,0,Neither,work; health,health,other,other,anxiety,anxiety,advice seeking; emotional support seeking; professional help,advice seeking; withdrawal
+2629,1963,test,1,0,TBe only,health,health,partner; family,family,hopelessness; other,,,
+2630,3088,test,0,0,Neither,,,,,shame; hopelessness,shame; hopelessness,,
+2631,414,test,1,0,TBe only,breakup or romance; social isolation; health,health,peer,,loneliness; shame; sadness; hopelessness,loneliness; sadness; hopelessness,professional help; withdrawal,
+2632,1213,test,0,0,Neither,health,study; health,,,,,positive coping,
+2633,605,test,0,0,Neither,health,family conflict; health,,family,,,,advice seeking
+2634,299,test,0,0,Neither,study; work,health,,,sadness; anxiety,anxiety; hopelessness,,advice seeking
+2635,1057,test,1,0,TBe only,social isolation,social isolation,,,sadness,loneliness; sadness,withdrawal,
+2636,408,test,0,0,Neither,study; work; health,health,family,family,guilt; sadness; anxiety; hopelessness,sadness; anxiety; hopelessness,withdrawal,
+2637,30,test,0,0,Neither,abuse,,other,,hopelessness,,,
+2638,192,test,1,0,TBe only,social isolation; health,health,other,partner,loneliness,loneliness,advice seeking; professional help,advice seeking
+2639,2436,test,0,1,PBu only,,,,,shame; hopelessness,hopelessness,,
+2640,1425,test,1,0,TBe only,financial; work; health,financial; work; health,,,hopelessness,,,
+2641,1829,test,0,0,Neither,,,,,,,advice seeking,advice seeking
+2642,2667,test,1,0,TBe only,health,health,,other,loneliness; shame; hopelessness,shame; hopelessness,professional help,professional help
+2643,3192,test,1,0,TBe only,breakup or romance; work; health,health,workplace; other,,hopelessness,hopelessness,,
+2644,2103,test,1,0,TBe only,social isolation; health,health,other,,loneliness,,advice seeking,
+2645,279,test,0,0,Neither,health,,,,,,professional help,
+2646,2310,test,0,1,PBu only,,social isolation,friend,friend,hopelessness,sadness; hopelessness,,
+2647,2510,test,0,0,Neither,,,,,,,,
+2648,3399,test,0,0,Neither,work,work,,,anger,,advice seeking; emotional support seeking,advice seeking; emotional support seeking
+2649,170,test,1,1,Both,health,health,other,,loneliness; anxiety; hopelessness,anxiety; hopelessness,emotional support seeking; professional help,advice seeking
+2650,3410,test,0,0,Neither,family conflict; health,health,family,family,other,,advice seeking; emotional support seeking,advice seeking; emotional support seeking; professional help
+2651,432,test,1,0,TBe only,,,,,,hopelessness,,
+2652,2451,test,1,0,TBe only,social isolation,social isolation,peer,friend,anxiety,anxiety; hopelessness,,
+2653,1937,test,0,0,Neither,,,,,,,positive coping,
+2654,1295,test,0,0,Neither,,,family,family,shame,,,
+2655,691,test,1,0,TBe only,social isolation,social isolation; health,family; friend,friend,loneliness; shame; anxiety; anger; other,loneliness; sadness; anxiety; anger; hopelessness,,withdrawal
+2656,1411,test,0,0,Neither,family conflict,,family; friend,family; friend,guilt; anger,anger,,
+2657,1632,test,1,0,TBe only,,,,,hopelessness; other,hopelessness,advice seeking,advice seeking
+2658,2611,test,0,0,Neither,,,family,,hopelessness,,,
+2659,196,test,0,0,Neither,work; health,health,other,,,,advice seeking; positive coping,professional help
+2660,3515,test,1,1,Both,family conflict; financial; work; health,financial; work; health,family,,sadness,shame; sadness; hopelessness,advice seeking,
+2661,1616,test,0,0,Neither,health; abuse,health,friend,friend,,,advice seeking; professional help,
+2662,3313,test,1,1,Both,family conflict; breakup or romance; social isolation; study; health; abuse,family conflict; breakup or romance; social isolation; study; abuse,partner; family; friend; peer,partner; family; friend,loneliness; shame; sadness; hopelessness,loneliness; shame; hopelessness,emotional support seeking,
+2663,183,test,1,0,TBe only,,,,,,,advice seeking; emotional support seeking,
+2664,33,test,1,1,Both,social isolation; study; health,social isolation; health,friend,friend,loneliness; sadness; hopelessness,sadness; hopelessness,withdrawal,
+2665,166,test,1,0,TBe only,,social isolation,,,loneliness,,,
+2666,3109,test,0,0,Neither,health,health,workplace,workplace,shame; hopelessness,shame; other,advice seeking,advice seeking
+2667,2223,test,0,1,PBu only,financial; study; work; health; abuse,financial; study; health,family,,,hopelessness,advice seeking,advice seeking
+2668,1510,test,0,1,PBu only,health,health,other,,sadness; hopelessness,sadness; hopelessness,advice seeking; professional help,
+2669,1431,test,0,0,Neither,,,,,hopelessness,,,
+2670,2825,test,1,0,TBe only,breakup or romance; social isolation,breakup or romance; social isolation,partner; friend,partner; friend,loneliness,loneliness,,
+2671,644,test,1,0,TBe only,breakup or romance; social isolation; financial; health,social isolation; work,partner; family,,loneliness; hopelessness,,,
+2672,3200,test,1,1,Both,social isolation,social isolation,other,,loneliness; hopelessness,loneliness,,
+2673,2622,test,1,1,Both,breakup or romance; social isolation,breakup or romance; social isolation; health,family; friend,family; friend,loneliness; hopelessness,loneliness; sadness; hopelessness,professional help; withdrawal; positive coping,
+2674,1553,test,0,0,Neither,,health,,,,,emotional support seeking,
+2675,3185,test,1,1,Both,health,health,family,family,shame; anxiety; hopelessness,anxiety; hopelessness,advice seeking; withdrawal,advice seeking
+2676,3469,test,0,1,PBu only,health,,,,hopelessness,,professional help,
+2677,2292,test,0,0,Neither,work,work,,,,hopelessness,advice seeking; withdrawal,advice seeking
+2678,551,test,0,0,Neither,health,health,,,anxiety,anxiety,advice seeking; professional help,
+2679,1366,test,0,0,Neither,breakup or romance,,partner,,loneliness,,,
+2680,2268,test,0,0,Neither,,,,,,,,
+2681,3115,test,1,0,TBe only,social isolation; health,social isolation; health,,,other,,advice seeking; withdrawal,
+2682,2781,test,1,0,TBe only,family conflict; social isolation,family conflict; social isolation,family; friend,family; friend,loneliness; anger,loneliness; shame,,
+2683,194,test,0,0,Neither,work; health,work; health,family; workplace,family,anxiety,anxiety,advice seeking; professional help; withdrawal,advice seeking; withdrawal
+2684,2034,test,0,0,Neither,health,health,,,,,,
+2685,642,test,0,0,Neither,financial; work; health; grief,social isolation; financial; work; health,friend,friend,sadness; hopelessness,hopelessness,positive coping,
+2686,2248,test,0,1,PBu only,social isolation,social isolation; health,,,shame,shame; hopelessness,withdrawal,
+2687,816,test,0,0,Neither,,,friend,friend,,,advice seeking,
+2688,3275,test,1,1,Both,family conflict; social isolation; grief; abuse,health; abuse,family; other,family,hopelessness,hopelessness,,
+2689,2115,test,1,1,Both,social isolation; health,health,friend,friend,other,,advice seeking,advice seeking
+2690,3122,test,1,0,TBe only,social isolation; health; other,,other,,shame; anxiety; hopelessness,shame; anxiety; hopelessness,withdrawal,
+2691,450,test,0,0,Neither,health,,,,anxiety; hopelessness,,advice seeking; professional help,advice seeking
+2692,2287,test,0,1,PBu only,,social isolation,friend,friend,guilt; sadness; anxiety,sadness; anxiety,advice seeking,
+2693,1760,test,1,0,TBe only,social isolation; grief; other,social isolation,family; friend,family,hopelessness,hopelessness,,
+2694,3288,test,0,1,PBu only,family conflict,health,family,family,,anxiety,withdrawal,
+2695,438,test,1,0,TBe only,social isolation; health,health,other,other,anxiety,,advice seeking; professional help,advice seeking; professional help
+2696,2778,test,1,1,Both,social isolation; study,,friend,friend,sadness,sadness; hopelessness,,
+2697,2623,test,0,0,Neither,health,work,family; friend; workplace,family; friend,shame; hopelessness,shame,positive coping,
+2698,2405,test,0,1,PBu only,financial; study; health,study; health,family; other,family,guilt; shame; hopelessness,hopelessness,withdrawal,
+2699,1940,test,1,1,Both,breakup or romance; social isolation; health,social isolation,family; friend,family; friend,loneliness; shame; sadness,loneliness; sadness,emotional support seeking; professional help,emotional support seeking; withdrawal
+2700,818,test,0,0,Neither,,,,,anger; hopelessness,hopelessness,,
+2701,2470,test,1,0,TBe only,social isolation; health,health,other,other,guilt,guilt,professional help; withdrawal; positive coping,advice seeking; professional help
+2702,3161,test,0,0,Neither,,,,,sadness,,advice seeking,advice seeking
+2703,3369,test,1,1,Both,social isolation,social isolation,other,,loneliness; guilt; shame; hopelessness,loneliness; guilt; anxiety; hopelessness,,
+2704,2579,test,0,1,PBu only,,,,,other,hopelessness; other,,
+2705,3440,test,1,1,Both,social isolation,social isolation,,,shame,loneliness,,
+2706,1897,test,1,1,Both,,,,,hopelessness,hopelessness,,
+2707,2553,test,0,0,Neither,,,,,anxiety,anxiety,advice seeking,advice seeking
+2708,1697,test,0,0,Neither,,,,,anxiety,,,
+2709,621,test,0,0,Neither,health,,,,hopelessness,,,
+2710,1044,test,0,1,PBu only,,,,,sadness; hopelessness,sadness,,
+2711,3006,test,1,0,TBe only,health,health,,,shame; hopelessness,hopelessness,,
+2712,495,test,1,0,TBe only,social isolation; health,health,community,,loneliness; sadness,loneliness; sadness,advice seeking; emotional support seeking,advice seeking
+2713,2309,test,1,0,TBe only,financial; work; health,work; health,partner; workplace,partner,,,advice seeking,
+2714,812,test,1,0,TBe only,social isolation,social isolation,family,family,hopelessness,sadness; hopelessness,,
+2715,3405,test,0,0,Neither,health,health,,,,,,
+2716,2889,test,1,0,TBe only,breakup or romance; social isolation; financial; health,health,partner; family; friend,partner; friend,loneliness; shame,sadness,advice seeking; professional help,professional help
+2717,2717,test,1,0,TBe only,social isolation; abuse,social isolation; health,friend,friend,loneliness; sadness,sadness,emotional support seeking; withdrawal,emotional support seeking; professional help
+2718,1091,test,1,0,TBe only,,social isolation,friend,friend,shame; hopelessness,loneliness; guilt; shame; hopelessness,,
+2719,3300,test,1,1,Both,social isolation; work; health,work,other,,loneliness; hopelessness,hopelessness,advice seeking,advice seeking
+2720,1999,test,1,1,Both,health,health,,family; friend,sadness,,emotional support seeking; withdrawal,
+2721,80,test,1,0,TBe only,social isolation,social isolation,friend,friend,loneliness; anxiety; hopelessness,loneliness; anxiety,advice seeking,
+2722,1517,test,0,1,PBu only,,,,,sadness; hopelessness,sadness; hopelessness,,
+2723,2092,test,0,0,Neither,,,,,,,emotional support seeking,
+2724,2668,test,0,1,PBu only,study,,,,shame; hopelessness,hopelessness,,
+2725,2138,test,0,0,Neither,work; health,,other,,shame; sadness,sadness,professional help,professional help
+2726,2045,test,1,1,Both,social isolation; study; health,family conflict; work; health,family,family,guilt; shame; hopelessness,shame,withdrawal,advice seeking
+2727,1114,test,0,0,Neither,health,health,,,shame; sadness; anxiety,sadness; anxiety,advice seeking,advice seeking
+2728,2595,test,1,0,TBe only,breakup or romance; work; health,breakup or romance; work,partner; workplace,partner,hopelessness,hopelessness,,
+2729,2758,test,0,0,Neither,health,,other,,sadness,sadness,,
+2730,573,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,shame; hopelessness,loneliness; shame,withdrawal,
+2731,2170,test,1,1,Both,,,,,hopelessness,hopelessness,,
+2732,2803,test,1,0,TBe only,breakup or romance; social isolation,social isolation,friend,friend,loneliness; shame,loneliness,,
+2733,776,test,1,1,Both,family conflict; breakup or romance; social isolation; financial; work; health,financial; health,partner; family; friend; other,family; friend; other,shame; hopelessness,hopelessness,advice seeking; professional help; withdrawal,advice seeking; professional help
+2734,1775,test,0,0,Neither,health,social isolation; health,friend,friend,shame,,emotional support seeking,withdrawal
+2735,351,test,1,0,TBe only,,social isolation,,,loneliness; anxiety; hopelessness,loneliness; hopelessness,,
+2736,1962,test,0,0,Neither,health,health,,,anxiety,,,advice seeking
+2737,829,test,1,0,TBe only,,,,,,,advice seeking; emotional support seeking,emotional support seeking
+2738,1073,test,1,1,Both,social isolation; study,social isolation,other,friend,loneliness,loneliness; hopelessness,advice seeking; withdrawal,
+2739,257,test,1,1,Both,family conflict; social isolation; financial; health,social isolation; financial,family; friend,family,loneliness; hopelessness,loneliness; hopelessness,withdrawal,withdrawal
+2740,3206,test,1,0,TBe only,social isolation; health; grief,family conflict; social isolation; health,family; other,family,loneliness; shame; sadness; hopelessness,sadness; hopelessness,advice seeking; emotional support seeking,
+2741,3350,test,0,0,Neither,health,,other,other,guilt; anger,guilt,advice seeking; professional help,advice seeking; professional help
+2742,1052,test,0,0,Neither,health,health,,,,,,
+2743,1097,test,1,1,Both,health,health,friend,friend,anger; hopelessness,hopelessness,advice seeking; withdrawal,
+2744,781,test,0,0,Neither,,,,,sadness; hopelessness,sadness,,
+2745,1904,test,0,0,Neither,study,,,,anxiety,anxiety,advice seeking,advice seeking
+2746,238,test,1,0,TBe only,social isolation,health,,,shame,,,emotional support seeking
+2747,1271,test,0,0,Neither,health,,,,,,advice seeking; positive coping,
+2748,679,test,0,1,PBu only,,,family; friend,family; friend,,,,
+2749,1003,test,1,0,TBe only,social isolation; health,health,other,,anger,anger; hopelessness,,
+2750,549,test,0,0,Neither,breakup or romance,,partner,,shame; anxiety; hopelessness,,,
+2751,1221,test,0,0,Neither,,,,,anger,,,
+2752,174,test,1,0,TBe only,social isolation,social isolation,family; friend,family; friend,sadness; anger,sadness,advice seeking; withdrawal,advice seeking
+2753,567,test,1,0,TBe only,health,social isolation; health,partner; family; friend,partner; family; friend,guilt; shame; sadness; hopelessness,guilt; shame,,
+2754,925,test,1,0,TBe only,social isolation,,,,loneliness; hopelessness,,,
+2755,721,test,0,1,PBu only,breakup or romance; health,health,partner,partner; friend,guilt; anxiety; hopelessness; other,anxiety; hopelessness,professional help,professional help
+2756,2706,test,1,1,Both,,,,,,,,
+2757,1572,test,0,1,PBu only,health,,,,,,,
+2758,2102,test,1,0,TBe only,social isolation,,family; friend,family; friend,sadness; hopelessness,sadness; hopelessness,advice seeking; withdrawal,
+2759,3145,test,1,0,TBe only,social isolation,social isolation,,,loneliness; sadness,loneliness,advice seeking,advice seeking
+2760,102,test,0,0,Neither,,,,,,,,
+2761,2242,test,0,0,Neither,,,,,,,,
+2762,239,test,1,1,Both,breakup or romance; social isolation; financial; study; health,breakup or romance; social isolation; study; health,friend,friend,loneliness; guilt; shame; sadness; hopelessness,loneliness; hopelessness,,
+2763,1501,test,0,0,Neither,work; health,health,,,,,,
+2764,1385,test,0,0,Neither,health,health,other,other,sadness,anxiety,advice seeking; professional help,advice seeking; professional help
+2765,3514,test,0,1,PBu only,,social isolation,friend,friend,anxiety,anxiety,advice seeking,advice seeking
+2766,1980,test,0,0,Neither,social isolation,,other,friend,,,,
+2767,897,test,0,0,Neither,health,,,,guilt,,,
+2768,2229,test,0,0,Neither,health,health,,,sadness; anxiety,sadness; anxiety,,withdrawal
+2769,3303,test,1,0,TBe only,family conflict; social isolation; financial; work; abuse,family conflict; social isolation; health,family,partner; family,loneliness,loneliness; hopelessness,,
+2770,44,test,1,1,Both,breakup or romance; social isolation; work,breakup or romance; social isolation,partner,partner,loneliness; sadness; hopelessness,loneliness; sadness,,
+2771,602,test,0,0,Neither,,,,,,,positive coping,
+2772,1336,test,1,0,TBe only,breakup or romance; social isolation; health,breakup or romance; health,partner,,shame; sadness; anxiety,shame; anxiety,advice seeking,withdrawal
+2773,3413,test,0,1,PBu only,study; health,study; health,other,,shame; sadness; hopelessness,shame; hopelessness,withdrawal,withdrawal
+2774,2315,test,0,1,PBu only,,,,,,hopelessness,advice seeking,
+2775,1825,test,1,1,Both,social isolation; work; health,breakup or romance; social isolation; health,friend; workplace,partner; friend,loneliness; shame; anxiety; hopelessness,loneliness; shame; anger; hopelessness,withdrawal,
+2776,1788,test,1,0,TBe only,breakup or romance; social isolation; health,breakup or romance; social isolation; health,partner,friend,loneliness; guilt; anger,anger; hopelessness,advice seeking,
+2777,802,test,0,0,Neither,,,,,hopelessness,,withdrawal,
+2778,411,test,0,0,Neither,study,study,,,,,withdrawal,withdrawal
+2779,58,test,0,0,Neither,,,,,sadness,,,
+2780,1025,test,0,1,PBu only,family conflict; social isolation; financial; study; work; health,social isolation; work; health,family; friend; workplace; other,family; friend; other,sadness; anger; hopelessness,loneliness; hopelessness,professional help,professional help; withdrawal
+2781,1032,test,1,0,TBe only,social isolation; work; health,work; health,family; friend,family; friend,shame; sadness; other,sadness; anxiety,withdrawal,withdrawal
+2782,1071,test,0,1,PBu only,health,health,,family,hopelessness,hopelessness,advice seeking,
+2783,2868,test,1,1,Both,family conflict; breakup or romance; social isolation; study; health,social isolation,family,friend,loneliness; sadness; hopelessness,loneliness; hopelessness,advice seeking; emotional support seeking; professional help,
+2784,2996,test,1,1,Both,breakup or romance,,partner,family; friend,hopelessness,hopelessness,,
+2785,1922,test,1,0,TBe only,family conflict; health,social isolation,family,family; friend,,,,
+2786,1736,test,1,0,TBe only,health,health,,,anxiety; hopelessness,anxiety; other,advice seeking,advice seeking
+2787,2431,test,0,1,PBu only,,,,,hopelessness,,,
+2788,309,test,1,0,TBe only,breakup or romance,work,partner,,sadness,,,
+2789,1374,test,0,0,Neither,health; abuse,,other,,sadness,sadness,advice seeking; professional help,advice seeking; professional help
+2790,2222,test,0,0,Neither,health,health,,,,,advice seeking,advice seeking
+2791,2603,test,1,1,Both,social isolation; health,,,,,,emotional support seeking,
+2792,2111,test,1,0,TBe only,social isolation; study; work; health,social isolation; health,family,family; friend,loneliness; guilt; sadness; hopelessness,loneliness; hopelessness,advice seeking,withdrawal
+2793,1927,test,1,0,TBe only,,social isolation,partner; family; friend,family; friend,loneliness; guilt; sadness; hopelessness,loneliness; guilt; sadness,emotional support seeking; withdrawal,withdrawal
+2794,3023,test,1,0,TBe only,family conflict; breakup or romance,family conflict,family,family,anger; hopelessness,hopelessness,,
+2795,3138,test,1,0,TBe only,breakup or romance,breakup or romance,other,,sadness; hopelessness,sadness; hopelessness,,
+2796,2402,test,1,1,Both,abuse,,other,,hopelessness,hopelessness,,
+2797,478,test,1,0,TBe only,social isolation; health,health,friend,friend,,,emotional support seeking,
+2798,506,test,1,1,Both,,work,partner; family,partner; family,shame; sadness,shame; hopelessness,advice seeking,
+2799,1138,test,1,1,Both,health,breakup or romance; health,partner,partner,anxiety,,advice seeking,advice seeking; professional help
+2800,188,test,0,1,PBu only,study; work,,,,hopelessness,hopelessness,withdrawal,
+2801,1350,test,0,0,Neither,,,,,anger; hopelessness,,,
+2802,1756,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,loneliness; shame; hopelessness,hopelessness,,
+2803,1360,test,0,0,Neither,family conflict; breakup or romance; health,family conflict; breakup or romance; health,partner; family,partner; family,sadness; anxiety,anxiety,positive coping,
+2804,1237,test,0,0,Neither,,,,,anxiety,,advice seeking,
+2805,1376,test,0,0,Neither,,,,,sadness,sadness,advice seeking; emotional support seeking,advice seeking
+2806,1822,test,0,0,Neither,health,health,other,other,,,advice seeking; professional help,advice seeking; professional help
+2807,240,test,1,0,TBe only,family conflict; health,health,family; other,family; other,sadness; anxiety; anger,sadness,professional help; positive coping,professional help
+2808,1620,test,0,1,PBu only,health; grief,breakup or romance; health,friend,partner; friend,guilt; sadness; anxiety,sadness,,
+2809,2329,test,1,1,Both,family conflict; social isolation; financial; work; health; abuse,family conflict; social isolation; financial; work; health,family,family,loneliness; shame; anger; hopelessness,loneliness; shame; hopelessness,withdrawal,withdrawal
+2810,1731,test,0,1,PBu only,,,,,hopelessness,hopelessness,,
+2811,678,test,1,0,TBe only,breakup or romance,,partner,,loneliness; anxiety,loneliness; anxiety,advice seeking,
+2812,3090,test,1,0,TBe only,family conflict; breakup or romance; social isolation; study; abuse,social isolation; study,family; friend; peer,family; friend,loneliness; shame; sadness; hopelessness,loneliness; hopelessness,,
+2813,2465,test,1,1,Both,family conflict; financial; health,health,family,family,sadness; hopelessness,sadness; hopelessness,withdrawal,
+2814,1459,test,0,0,Neither,,,,,,,advice seeking,
+2815,2189,test,1,1,Both,family conflict; abuse,family conflict; health,family,family,hopelessness,,advice seeking; withdrawal,
+2816,3499,test,1,1,Both,social isolation; financial; grief,social isolation,family,family,loneliness; sadness; hopelessness,loneliness; hopelessness,,
+2817,152,test,0,1,PBu only,family conflict; work,breakup or romance,partner; family,partner; family,hopelessness,hopelessness,advice seeking,
+2818,2827,test,1,0,TBe only,social isolation; health,family conflict; social isolation; health,family,family; friend,loneliness; sadness; anxiety; anger; hopelessness,sadness; anxiety; anger; hopelessness,withdrawal,
+2819,2359,test,1,0,TBe only,social isolation,,friend; peer,friend,hopelessness,,,
+2820,1613,test,1,1,Both,social isolation; health,social isolation,friend,friend,loneliness; anger; hopelessness,,withdrawal; positive coping,professional help
+2821,1842,test,1,0,TBe only,social isolation; health,health,,,sadness; anger; other,hopelessness,,
+2822,256,test,1,0,TBe only,social isolation; abuse,social isolation,friend,friend,anger,,,
+2823,346,test,1,0,TBe only,social isolation; health,social isolation; health,family; friend; other,family; friend,shame; anxiety; hopelessness; other,anxiety; hopelessness,advice seeking; emotional support seeking; professional help; withdrawal,advice seeking; professional help; withdrawal
+2824,2766,test,1,0,TBe only,family conflict; breakup or romance; study,family conflict; social isolation,family; friend,family; friend,guilt; hopelessness,hopelessness,withdrawal,
+2825,1735,test,0,1,PBu only,,,,,hopelessness,hopelessness,,
+2826,718,test,1,0,TBe only,health,,family,,sadness; hopelessness,sadness; hopelessness,,
+2827,1681,test,0,0,Neither,health,health,,,guilt,guilt; anxiety; hopelessness,advice seeking,advice seeking; emotional support seeking
+2828,3476,test,0,1,PBu only,health,health,,,sadness; hopelessness,anxiety; hopelessness,advice seeking; emotional support seeking,advice seeking
+2829,564,test,0,0,Neither,,,,,,,,
+2830,2259,test,0,1,PBu only,health,health,other,,guilt; anger; hopelessness,anger; hopelessness,emotional support seeking; professional help,advice seeking; professional help
+2831,1236,test,1,0,TBe only,breakup or romance,breakup or romance; health,partner,partner,anxiety,sadness; anxiety,advice seeking,
+2832,1206,test,0,0,Neither,breakup or romance,,partner,,anxiety,,,
+2833,839,test,1,1,Both,family conflict; work; health,,family,,hopelessness,,withdrawal; positive coping,
+2834,178,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,loneliness; hopelessness,hopelessness,,
+2835,1866,test,1,0,TBe only,health,health,other,,sadness,sadness,,
+2836,443,test,1,0,TBe only,social isolation; health,health,other,friend,,anxiety,professional help,professional help
+2837,1067,test,0,0,Neither,financial; work,financial; work,workplace,,anxiety; anger,anxiety,advice seeking,advice seeking
+2838,929,test,1,1,Both,social isolation; health,health,family; friend,family; friend,loneliness; sadness; anxiety; hopelessness,anxiety; hopelessness,withdrawal,withdrawal
+2839,511,test,1,1,Both,social isolation; health,health,,,shame; anxiety; hopelessness,shame; anxiety,withdrawal,
+2840,1037,test,0,1,PBu only,health,,family; friend,family; friend,sadness; hopelessness,,,
+2841,1657,test,1,0,TBe only,,,,,,,withdrawal,
+2842,463,test,1,0,TBe only,family conflict; social isolation; study; health; abuse,health,family; friend; peer,,sadness; anxiety,anxiety,advice seeking; emotional support seeking; withdrawal,advice seeking; emotional support seeking
+2843,1006,test,0,1,PBu only,breakup or romance; abuse,breakup or romance,partner; family,family,shame; sadness; hopelessness,hopelessness,,advice seeking
+2844,2071,test,1,0,TBe only,work; health,work; health,partner; friend; workplace,friend,guilt; shame; sadness; hopelessness,shame; anxiety,withdrawal,
+2845,1475,test,0,0,Neither,,,,,,,,
+2846,14,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,loneliness; anger,hopelessness,,
+2847,1777,test,1,1,Both,,,,,shame; anxiety,shame; anxiety,withdrawal,withdrawal
+2848,173,test,0,1,PBu only,breakup or romance; financial; health,social isolation; financial,partner,,shame; hopelessness,loneliness; shame; hopelessness,withdrawal,withdrawal
+2849,2753,test,1,1,Both,social isolation; abuse,social isolation,friend,friend,guilt; shame; hopelessness,shame,withdrawal,withdrawal
+2850,331,test,1,0,TBe only,breakup or romance,breakup or romance,other,partner,loneliness; sadness; hopelessness,loneliness,advice seeking,advice seeking
+2851,1406,test,0,1,PBu only,health,health,,,,,,
+2852,1580,test,1,0,TBe only,family conflict; social isolation; study; health,family conflict; social isolation; health,family; friend,family; friend,loneliness,shame,advice seeking; professional help; positive coping,advice seeking
+2853,599,test,1,0,TBe only,family conflict; breakup or romance; social isolation; work; health,breakup or romance; work; health,partner; family; friend; workplace,partner; friend,sadness; hopelessness,hopelessness,withdrawal,withdrawal
+2854,2633,test,0,0,Neither,work; health,work; health,workplace,,hopelessness; other,hopelessness,advice seeking; professional help; positive coping,advice seeking; professional help
+2855,1995,test,1,0,TBe only,health,social isolation; health,other,,,loneliness; hopelessness,emotional support seeking; professional help,professional help
+2856,2422,test,1,0,TBe only,breakup or romance,,partner,,shame,shame; sadness,,
+2857,1765,test,0,0,Neither,family conflict; financial; health,health,family,family,sadness,sadness,advice seeking; withdrawal,professional help
+2858,1677,test,1,0,TBe only,social isolation,social isolation,family; friend,family; friend,loneliness,,emotional support seeking,
+2859,932,test,0,0,Neither,financial; work,,,,,,,
+2860,964,test,0,0,Neither,,,,,,,advice seeking,
+2861,3383,test,0,0,Neither,health,,,,,,,
+2862,3168,test,0,0,Neither,study,,,,hopelessness,,,
+2863,3316,test,1,1,Both,social isolation; work,work,family,,shame; anger; hopelessness,shame; hopelessness,,
+2864,324,test,1,0,TBe only,work,work,workplace,,anxiety,,,
+2865,3236,test,0,0,Neither,,,,,,,advice seeking,advice seeking
+2866,2481,test,0,1,PBu only,,family conflict; social isolation,family; friend,family; friend,guilt; shame; hopelessness,guilt; shame; hopelessness,withdrawal,
+2867,755,test,1,0,TBe only,health,health,,,,hopelessness,emotional support seeking,
+2868,63,test,0,0,Neither,breakup or romance; health,breakup or romance; health,family; friend,partner; family; friend,sadness,sadness; anxiety,emotional support seeking; professional help; withdrawal,emotional support seeking
+2869,266,test,1,0,TBe only,breakup or romance,,other,,shame; other,loneliness,,
+2870,1610,test,1,0,TBe only,breakup or romance; social isolation; financial; work; health; abuse,breakup or romance; social isolation; work; health; abuse,partner; family,partner; family; friend,loneliness; sadness,loneliness; sadness,advice seeking; emotional support seeking; professional help,advice seeking
+2871,1462,test,0,1,PBu only,health,breakup or romance,partner; other,partner,shame; sadness; anger; hopelessness,anger; hopelessness,professional help,
+2872,157,test,0,0,Neither,health,health,,,,,advice seeking; positive coping,
+2873,874,test,1,0,TBe only,breakup or romance,,partner,,sadness,hopelessness,,
+2874,61,test,1,0,TBe only,grief,health,,,,,,
+2875,3337,test,1,0,TBe only,social isolation,social isolation,,,loneliness; hopelessness,loneliness; hopelessness,withdrawal,
+2876,785,test,1,1,Both,social isolation,,friend; other,friend,loneliness; shame; hopelessness,shame; hopelessness,emotional support seeking; withdrawal,
+2877,254,test,1,0,TBe only,,,other,other,hopelessness,hopelessness,emotional support seeking; professional help,
+2878,3500,test,0,0,Neither,health,,,,shame,,,
+2879,2015,test,1,0,TBe only,,,,,,,advice seeking,advice seeking
+2880,705,test,1,1,Both,family conflict; social isolation; financial,social isolation; financial,family; friend,family; friend,loneliness; shame; anger; hopelessness,loneliness; shame,advice seeking,
+2881,461,test,1,0,TBe only,social isolation,social isolation,,,loneliness; hopelessness,loneliness; hopelessness,withdrawal,
+2882,124,test,1,1,Both,social isolation,,,,hopelessness,hopelessness,,
+2883,3364,test,1,1,Both,grief,,partner; family,family,hopelessness,hopelessness,,
+2884,2132,test,0,0,Neither,,,,,hopelessness,,,
+2885,263,test,1,0,TBe only,social isolation,social isolation,,friend,loneliness; sadness; hopelessness,loneliness; sadness,emotional support seeking,
+2886,2829,test,1,0,TBe only,breakup or romance,breakup or romance,partner,partner,hopelessness,hopelessness,,
+2887,557,test,1,0,TBe only,family conflict; social isolation; financial; work; health,work; health,family; friend,family,shame; sadness; hopelessness,sadness; anxiety; hopelessness,advice seeking; professional help,advice seeking; professional help; withdrawal
+2888,1967,test,1,0,TBe only,social isolation,social isolation,family; friend,family; friend,loneliness,loneliness,advice seeking,emotional support seeking; withdrawal
+2889,1053,test,0,0,Neither,health,health,,,,,advice seeking; positive coping,advice seeking
+2890,2366,test,0,1,PBu only,other,,friend,friend,guilt; sadness; hopelessness,sadness; hopelessness,advice seeking,advice seeking
+2891,1545,test,0,0,Neither,abuse,,other,,shame,,,
+2892,2501,test,0,1,PBu only,breakup or romance; health,breakup or romance; health,partner; family,partner; family,guilt; hopelessness,guilt; hopelessness,professional help,
+2893,2686,test,0,0,Neither,,health,friend,friend,,,advice seeking,advice seeking
+2894,2665,test,0,0,Neither,breakup or romance,,partner,,,,,
+2895,88,test,1,0,TBe only,social isolation,social isolation,,,loneliness,loneliness,emotional support seeking,
+2896,2970,test,0,0,Neither,health,,partner; family; friend,family; friend,sadness,sadness,positive coping,
+2897,594,test,0,0,Neither,study; health,study; health,,,anxiety,,advice seeking; professional help,advice seeking
+2898,670,test,0,1,PBu only,breakup or romance,health,partner,partner,guilt,guilt,advice seeking,advice seeking
+2899,2514,test,1,0,TBe only,,,,,shame,shame,,
+2900,1600,test,1,0,TBe only,breakup or romance; social isolation; health,breakup or romance; social isolation; health,partner; friend,partner; friend,loneliness; sadness; hopelessness,loneliness; sadness; hopelessness,,
+2901,1656,test,1,0,TBe only,breakup or romance; social isolation; work; health,breakup or romance; social isolation; health,partner; family,partner,loneliness; sadness,loneliness; sadness,advice seeking; emotional support seeking,advice seeking
+2902,2269,test,1,0,TBe only,social isolation,,,,loneliness,hopelessness,withdrawal,
+2903,3069,test,1,0,TBe only,family conflict; breakup or romance; social isolation; work; health,breakup or romance; social isolation; work; health,partner; family; friend; workplace,partner; family; friend,loneliness; guilt; shame; anxiety; hopelessness,loneliness; sadness; anxiety; hopelessness,withdrawal,
+2904,1723,test,1,0,TBe only,social isolation,social isolation,friend,friend,sadness; hopelessness,loneliness; hopelessness,advice seeking; withdrawal,advice seeking
+2905,676,test,1,0,TBe only,social isolation,family conflict; social isolation,family; community,family,loneliness; anxiety; hopelessness,loneliness; hopelessness,withdrawal,
+2906,3010,test,1,0,TBe only,social isolation; health,health,partner,partner,,,withdrawal,
+2907,3028,test,1,0,TBe only,social isolation; work; health; grief; abuse,social isolation; abuse,friend; workplace; other,friend,shame; hopelessness,,professional help,
+2908,3506,test,1,0,TBe only,,,,,,,withdrawal,
+2909,430,test,1,0,TBe only,family conflict; health,health,family,family,anxiety,anxiety,advice seeking; professional help,advice seeking
+2910,457,test,1,0,TBe only,breakup or romance; health,breakup or romance; health,partner,,guilt; hopelessness,guilt; anxiety,,emotional support seeking
+2911,120,test,0,0,Neither,health,health,,,,,advice seeking,advice seeking
+2912,1503,test,1,1,Both,social isolation,social isolation,other,,loneliness; shame,loneliness,withdrawal,advice seeking
+2913,2732,test,0,0,Neither,study,,,,,,,
+2914,2353,test,0,0,Neither,,,other,,guilt,,withdrawal,
+2915,1188,test,1,0,TBe only,,social isolation,,,,loneliness,withdrawal,withdrawal
+2916,2401,test,0,1,PBu only,family conflict; abuse,family conflict; social isolation; study,family; friend,family; friend,anxiety,anxiety,emotional support seeking,
+2917,3513,test,0,0,Neither,health,health,other,,sadness,,advice seeking,advice seeking
+2918,2649,test,0,0,Neither,other,,family,,,,,
+2919,3516,test,1,1,Both,social isolation; study; abuse,social isolation,friend; other,friend,loneliness; guilt; shame; hopelessness,loneliness; hopelessness,professional help,
+2920,283,test,1,0,TBe only,social isolation,,other,,shame; anxiety; hopelessness,anxiety,withdrawal,
+2921,3305,test,1,1,Both,social isolation,,other,,guilt; hopelessness,hopelessness,,
+2922,274,test,0,0,Neither,health,,,,,,advice seeking,advice seeking
+2923,2534,test,1,1,Both,breakup or romance; social isolation; financial; work; health,social isolation; study; work; health,friend,friend,loneliness; shame; sadness; hopelessness,loneliness; sadness; hopelessness,withdrawal,
+2924,3182,test,1,0,TBe only,social isolation; financial; work; health; abuse,financial; work; health,other,,anger; hopelessness,hopelessness,,
+2925,1800,test,1,0,TBe only,study; health,study; health,,,,hopelessness,,
+2926,109,test,1,1,Both,social isolation; health,health,,,loneliness; shame; hopelessness,loneliness; hopelessness,advice seeking; professional help,
+2927,1135,test,0,0,Neither,health,health,family,family,hopelessness,hopelessness,withdrawal,
+2928,1831,test,0,1,PBu only,,social isolation,friend,friend,shame,,,
+2929,149,test,0,0,Neither,work; health,work; health,workplace,workplace,guilt; anxiety,guilt; anxiety,advice seeking,
+2930,214,test,0,0,Neither,health; other,social isolation; health,friend,friend,sadness; anxiety; anger,anxiety,professional help; withdrawal; positive coping,professional help
+2931,3290,test,0,1,PBu only,other,family conflict,family; other,family,hopelessness,hopelessness,,
+2932,1235,test,1,0,TBe only,,family conflict; social isolation,family,family,,loneliness,,
+2933,1061,test,0,1,PBu only,,,,,,,,
+2934,3162,test,1,0,TBe only,social isolation,social isolation,,friend,loneliness; shame; hopelessness,loneliness; shame; hopelessness,,
+2935,423,test,1,0,TBe only,social isolation; financial; study; work,work,,,anxiety; hopelessness,,advice seeking; withdrawal,
+2936,2986,test,1,1,Both,,social isolation,,,,,,emotional support seeking
+2937,368,test,1,0,TBe only,abuse,,other,,shame; sadness,,advice seeking,
+2938,2529,test,0,1,PBu only,study; health,study; health,family,family,hopelessness,hopelessness,,
+2939,3503,test,1,0,TBe only,health,,,,shame; anxiety; hopelessness,shame; anxiety; hopelessness,,
+2940,1793,test,1,0,TBe only,,,other,,,,advice seeking; emotional support seeking; professional help,advice seeking; professional help
+2941,2638,test,1,1,Both,health; grief,,family,family,anxiety; hopelessness; other,hopelessness,professional help,advice seeking
+2942,1659,test,0,0,Neither,health,health,,,,,,
+2943,1746,test,0,0,Neither,study; health,study; health,,,,,advice seeking,advice seeking
+2944,1422,test,1,0,TBe only,social isolation,,other,,loneliness,loneliness,emotional support seeking,emotional support seeking
+2945,1612,test,1,0,TBe only,,,family,family,,,advice seeking; emotional support seeking; withdrawal,advice seeking
+2946,759,test,0,0,Neither,social isolation,,,,,,withdrawal,
+2947,2823,test,1,1,Both,health,,,,sadness,,professional help; positive coping,
+2948,45,test,0,0,Neither,,,,,anxiety; hopelessness,,,
+2949,1427,test,1,1,Both,health,social isolation; health,community,other,sadness; hopelessness,loneliness; sadness; hopelessness,,advice seeking; emotional support seeking
+2950,1915,test,0,1,PBu only,study; health,,,,hopelessness,hopelessness,,
+2951,2835,test,1,0,TBe only,social isolation; study; health,health,family,family,loneliness; guilt; shame; anxiety; hopelessness,guilt; hopelessness,withdrawal; positive coping,withdrawal
+2952,442,test,1,1,Both,social isolation; work; health,work,friend; workplace,friend,loneliness; shame; anxiety; hopelessness; other,sadness; anxiety; hopelessness,withdrawal,
+2953,2121,test,1,0,TBe only,health,health,family,,hopelessness,,advice seeking; positive coping,advice seeking; professional help
+2954,218,test,0,0,Neither,health,health,family,family; other,,,advice seeking; professional help,advice seeking; professional help
+2955,3272,test,0,0,Neither,financial,financial,other,,anger,shame; anger; hopelessness,,
+2956,1192,test,1,1,Both,family conflict; social isolation,social isolation; study; work,partner; family,family,loneliness; shame; sadness; hopelessness,loneliness; sadness; hopelessness,,
+2957,1742,test,0,0,Neither,health,,,,sadness,,,
+2958,3116,test,1,0,TBe only,social isolation; work; health,social isolation; work,,,loneliness; sadness; hopelessness,hopelessness,professional help; withdrawal,withdrawal
+2959,3271,test,1,0,TBe only,social isolation,,other,,shame; hopelessness,,,
+2960,3359,test,0,0,Neither,health,,other,,sadness; anxiety,sadness; anxiety,emotional support seeking,emotional support seeking
+2961,332,test,1,0,TBe only,study; health,study; health,,,shame; other,shame,professional help; withdrawal,
+2962,251,test,1,0,TBe only,study; health,social isolation,,,,,,
+2963,354,test,1,0,TBe only,work; health,work; health,workplace,,anxiety,,withdrawal,
+2964,2562,test,1,0,TBe only,,,,,sadness; hopelessness,hopelessness,,
+2965,2865,test,0,0,Neither,,,friend,friend,shame; anxiety,,,
+2966,2282,test,0,0,Neither,health,,,,anxiety,,advice seeking; professional help,advice seeking
+2967,1220,test,1,0,TBe only,social isolation; health; abuse,health,family; friend; other,family; friend,anxiety,,emotional support seeking; professional help; positive coping,
+2968,1916,test,0,0,Neither,health,health,,,anxiety,,,
+2969,790,test,1,1,Both,family conflict; breakup or romance; social isolation,family conflict; breakup or romance; social isolation,partner; family,partner; family; friend,loneliness; sadness; anger,loneliness; sadness; anger; hopelessness,withdrawal,withdrawal
+2970,3126,test,1,0,TBe only,financial,,,,anger; hopelessness,,,
+2971,746,test,0,0,Neither,health,health,friend,friend,sadness,sadness,professional help,
+2972,3390,test,1,1,Both,family conflict; financial; work,financial; work; health,family,family,loneliness; sadness; anxiety; hopelessness,loneliness,,
+2973,794,test,1,1,Both,health,health,,,sadness,hopelessness,,emotional support seeking
+2974,3299,test,0,1,PBu only,financial; study; health,financial; work; health,other,other,sadness; hopelessness,,advice seeking; professional help,professional help
+2975,2615,test,1,0,TBe only,breakup or romance,,partner,,sadness; anger; hopelessness,sadness,withdrawal,withdrawal
+2976,680,test,0,0,Neither,,health,community,family; friend,,,,
+2977,2463,test,1,0,TBe only,family conflict; grief; abuse,family conflict,family,family,guilt; sadness; anger,sadness,,
+2978,3144,test,1,1,Both,family conflict; social isolation,family conflict; social isolation; health,family,family,hopelessness,hopelessness,,
+2979,1712,test,0,0,Neither,,,,,,,,
+2980,1978,test,0,1,PBu only,health,health,,,hopelessness; other,,,advice seeking
+2981,0,test,1,0,TBe only,grief,,friend,friend,,,,
+2982,764,test,1,0,TBe only,social isolation,social isolation,,,hopelessness,loneliness,withdrawal,
+2983,3386,test,0,1,PBu only,health,,,,hopelessness,hopelessness,,
+2984,1637,test,0,0,Neither,health,,,,sadness,,,
+2985,2763,test,0,0,Neither,breakup or romance,,partner,,shame,,withdrawal,
+2986,538,test,1,0,TBe only,social isolation,social isolation,friend,friend,,,,
+2987,247,test,1,0,TBe only,,,,,hopelessness,,,
+2988,2714,test,0,0,Neither,family conflict; financial; work; health; abuse,financial; health,family,family,anger; hopelessness,,advice seeking,advice seeking
+2989,2991,test,0,1,PBu only,health,health,,,hopelessness,hopelessness,professional help,professional help
+2990,2108,test,1,0,TBe only,health,health,other,,anxiety,anxiety,advice seeking; professional help,emotional support seeking; professional help
+2991,2639,test,0,0,Neither,,,family,family,hopelessness,hopelessness,,
+2992,3346,test,1,0,TBe only,,social isolation,,,other,loneliness; hopelessness,,
+2993,175,test,1,0,TBe only,social isolation,,friend,friend,anger,,advice seeking,
+2994,278,test,1,0,TBe only,family conflict; study,study,family,family,anxiety,,advice seeking; withdrawal,advice seeking
+2995,1234,test,1,0,TBe only,breakup or romance; social isolation; health,family conflict; breakup or romance; social isolation; health,partner,family; friend,loneliness; shame; sadness; anxiety; anger; hopelessness,loneliness; shame; sadness; anger,,
+2996,2020,test,1,1,Both,social isolation; health,,other,,hopelessness,hopelessness,,
+2997,2933,test,1,1,Both,health,,,,hopelessness,,,
+2998,2631,test,0,1,PBu only,health,health,,,guilt; sadness; hopelessness,guilt; sadness; hopelessness,advice seeking; emotional support seeking,
+2999,3228,test,0,0,Neither,health,health,,,other,sadness,advice seeking,
+3000,416,test,1,0,TBe only,family conflict; social isolation; study; health,social isolation; health,family; other,family; friend,loneliness; shame; anger,loneliness; hopelessness,withdrawal,
+3001,1001,test,1,1,Both,health,,family,family,hopelessness; other,hopelessness,,
+3002,217,test,1,0,TBe only,,,,,hopelessness,hopelessness,,
+3003,1552,test,1,0,TBe only,breakup or romance; health,breakup or romance; health,partner,partner,shame; hopelessness,,advice seeking,advice seeking
+3004,1498,test,0,0,Neither,,,,,anger; hopelessness,anger,,
+3005,554,test,0,0,Neither,work,work,,,anxiety; hopelessness,anxiety,,
+3006,3008,test,1,0,TBe only,social isolation; health,,peer,,loneliness; sadness,hopelessness,professional help,
+3007,1947,test,0,0,Neither,health,health,,,anxiety,,,
+3008,2013,test,0,1,PBu only,financial,,,,anxiety,anxiety,,
+3009,3127,test,1,0,TBe only,social isolation; health,social isolation,,,loneliness; shame; hopelessness,loneliness; anxiety; hopelessness,,
+3010,449,test,0,0,Neither,health,,,,anxiety,anxiety,emotional support seeking,
+3011,1442,test,0,0,Neither,financial,financial,family; other,family,,,advice seeking,emotional support seeking
+3012,2742,test,0,0,Neither,,,,,hopelessness,,,
+3013,3340,test,1,1,Both,family conflict; health,,family,family,,,advice seeking,advice seeking
+3014,433,test,0,0,Neither,health,,,,,,advice seeking,
+3015,578,test,1,0,TBe only,breakup or romance,breakup or romance; health,peer,,anger,,,
+3016,371,test,0,0,Neither,health,,,,sadness; anger,,,
+3017,2891,test,1,0,TBe only,family conflict; breakup or romance; social isolation; study; work,family conflict; social isolation,family; other,family; friend,loneliness; hopelessness,shame; hopelessness,professional help; withdrawal,professional help; withdrawal
+3018,2113,test,1,1,Both,social isolation; work; health,social isolation; work; health,family; friend; other,family; friend,sadness; anger; hopelessness,hopelessness,professional help,
+3019,3086,test,1,0,TBe only,family conflict; social isolation,social isolation,family,,loneliness,loneliness; hopelessness,emotional support seeking,emotional support seeking
+3020,650,test,1,0,TBe only,family conflict; abuse,family conflict,family,family,shame; sadness; anxiety,anxiety,,
+3021,2716,test,1,1,Both,social isolation,social isolation,,,loneliness; shame; hopelessness,loneliness; anxiety; hopelessness,,
+3022,1089,test,0,0,Neither,breakup or romance,,,,,,emotional support seeking,
+3023,907,test,1,1,Both,family conflict; social isolation; study; grief,health,family; friend,family; friend,sadness; hopelessness,sadness,advice seeking,
+3024,2069,test,0,0,Neither,,,,,,,advice seeking; emotional support seeking,advice seeking
+3025,1161,test,0,0,Neither,health,health,,,sadness,sadness; hopelessness,,
+3026,246,test,1,0,TBe only,,,,,shame,,advice seeking,
+3027,505,test,1,0,TBe only,health; grief,health,friend; other,friend,,loneliness,professional help,
+3028,1432,test,0,0,Neither,,,,,,,,
+3029,1467,test,0,1,PBu only,financial; health,family conflict; breakup or romance; health,partner,partner; family,guilt; shame; anxiety; hopelessness,guilt; hopelessness,withdrawal; positive coping,
+3030,1961,test,1,0,TBe only,breakup or romance,breakup or romance,partner,partner; friend,guilt; shame; sadness; hopelessness,,,emotional support seeking
+3031,3035,test,1,1,Both,family conflict; breakup or romance; social isolation; abuse,social isolation,partner; family; other,family; friend,loneliness; guilt; shame; sadness; anger; hopelessness,shame; sadness; hopelessness,emotional support seeking,
+3032,3324,test,0,1,PBu only,work,work,,,anxiety; hopelessness,hopelessness,,
+3033,798,test,1,0,TBe only,health,social isolation,family; friend,family; friend,sadness,sadness,emotional support seeking; withdrawal,
+3034,3032,test,0,0,Neither,financial; health,financial; health,other,other,sadness,,advice seeking; professional help,advice seeking; professional help
+3035,2130,test,1,0,TBe only,,social isolation,,,anger,hopelessness,,
+3036,1910,test,1,0,TBe only,social isolation; financial,social isolation; health,friend,friend,anxiety,anxiety,advice seeking; emotional support seeking,advice seeking
+3037,3232,test,0,0,Neither,,,,,anxiety,anxiety,,
+3038,2250,test,0,0,Neither,health; abuse,social isolation,peer; other,,anger,anger; hopelessness,positive coping,
+3039,736,test,1,1,Both,social isolation; health,social isolation; health,,,loneliness; anxiety; hopelessness; other,loneliness; anxiety,withdrawal,
+3040,1027,test,0,1,PBu only,,,,,,hopelessness,emotional support seeking,
+3041,3325,test,0,0,Neither,health,,,,,,,
+3042,1713,test,1,1,Both,social isolation; financial; health,work,,family,hopelessness,hopelessness,,
+3043,485,test,0,0,Neither,financial; study; health,study; health,peer,,sadness,,emotional support seeking,emotional support seeking
+3044,2285,test,1,0,TBe only,health,study; health,,,,,advice seeking,advice seeking
+3045,2547,test,0,1,PBu only,health,health,other,,sadness; hopelessness,hopelessness,withdrawal; positive coping,
+3046,258,test,1,0,TBe only,breakup or romance; social isolation,breakup or romance; social isolation,family; friend,family; friend,,loneliness,emotional support seeking,emotional support seeking
+3047,1811,test,0,0,Neither,breakup or romance; health,health,partner,partner,anxiety,,,
+3048,1108,test,0,0,Neither,,,,,,,,
+3049,3167,test,0,0,Neither,breakup or romance,,,,sadness,,,
+3050,1420,test,1,0,TBe only,family conflict; social isolation; health,health,family,family; friend,other,,advice seeking; professional help,advice seeking; emotional support seeking
+3051,3124,test,1,0,TBe only,family conflict; social isolation; health,family conflict; health,partner; family,partner; family,sadness; anger,hopelessness,withdrawal,
+3052,2873,test,1,1,Both,family conflict; study; health,health,family; other,family; other,shame; hopelessness,shame,emotional support seeking; professional help; withdrawal,professional help
+3053,1902,test,0,0,Neither,health,,,,anger; hopelessness,anger; hopelessness,,
+3054,881,test,0,0,Neither,,,,,,hopelessness,,
+3055,940,test,0,0,Neither,social isolation,,,,loneliness; sadness,,,
+3056,1511,test,0,0,Neither,health,health,,,other,hopelessness,,
+3057,2380,test,1,1,Both,social isolation,social isolation,,,loneliness; shame; hopelessness,loneliness; hopelessness,advice seeking,advice seeking
+3058,1779,test,0,0,Neither,,financial; work; health,,,hopelessness,,professional help; positive coping,
+3059,1536,test,0,0,Neither,,,,friend,shame,,positive coping,
+3060,2907,test,0,1,PBu only,family conflict; health,breakup or romance; health,partner; family,partner; family; other,sadness; anxiety; hopelessness,anxiety,,
+3061,296,test,1,1,Both,breakup or romance; study; health,health,other,other,hopelessness,,professional help,
+3062,1356,test,1,0,TBe only,health,,other,other,,,professional help,professional help
+3063,507,test,0,0,Neither,study; health,health,,,other,,advice seeking,advice seeking
+3064,7,test,1,0,TBe only,financial; study; health,financial; study; health,,,sadness; anxiety,hopelessness,,
+3065,2955,test,1,1,Both,social isolation; work,health,family; peer; workplace,family,guilt; shame; anger; hopelessness,anger,advice seeking,
+3066,2702,test,1,0,TBe only,social isolation,social isolation,other,family; friend,,,withdrawal,
+3067,3048,test,1,0,TBe only,,,,,shame; sadness; anger; hopelessness,shame; anger; hopelessness,,
+3068,1670,test,0,0,Neither,financial; health,financial; health,,other,sadness,,,professional help
+3069,2236,test,0,1,PBu only,,,,,,,,
+3070,807,test,0,0,Neither,health,,,,,,advice seeking,advice seeking
+3071,3393,test,1,1,Both,family conflict; breakup or romance; social isolation; financial; study; work; other,social isolation; financial; study; work,partner; family; friend,family; friend,loneliness; guilt; shame; hopelessness,loneliness; shame; hopelessness,,
+3072,2467,test,1,1,Both,family conflict; social isolation; financial; study; work; health; abuse,social isolation; financial; study; health; abuse,family; workplace,,loneliness; shame; anxiety; hopelessness,anxiety; hopelessness,withdrawal,
+3073,1017,test,0,1,PBu only,financial; health,family conflict; health,family,family,shame; anxiety,,professional help,
+3074,3240,test,0,1,PBu only,work,work; health,,family; friend,anxiety,hopelessness,,
+3075,1474,test,0,0,Neither,study; work; health,,,,hopelessness,,,
+3076,96,test,1,1,Both,breakup or romance; work; health; other,health,partner,partner,hopelessness,,emotional support seeking; withdrawal,emotional support seeking
+3077,2528,test,1,1,Both,social isolation; health,health,other,,loneliness; hopelessness,loneliness; hopelessness,advice seeking; emotional support seeking,advice seeking
+3078,752,test,0,0,Neither,,,,,,,,
+3079,1370,test,0,0,Neither,,,,,sadness; other,hopelessness,,
+3080,1261,test,0,0,Neither,family conflict,family conflict,family,family,anger,,,
+3081,25,test,0,0,Neither,breakup or romance; social isolation; work; health,breakup or romance; health,friend,friend,,,withdrawal; positive coping,withdrawal
+3082,1263,test,0,0,Neither,health,health,,,sadness,,,
+3083,840,test,0,1,PBu only,,,,,,,,
+3084,2390,test,0,0,Neither,,,,,hopelessness,,,
+3085,2634,test,1,1,Both,social isolation; financial; work; health,social isolation; financial; work; health,other,friend,hopelessness,hopelessness,,withdrawal
+3086,3463,test,1,1,Both,family conflict; social isolation; health,family conflict; social isolation; work; health,family; friend; workplace,family; friend,loneliness; sadness; hopelessness,hopelessness,professional help; withdrawal,
+3087,2099,test,0,0,Neither,financial; health,health,,,,,advice seeking,advice seeking
+3088,3198,test,1,0,TBe only,social isolation,social isolation,friend,friend,loneliness; sadness,loneliness; sadness,,
+3089,67,test,1,0,TBe only,social isolation,family conflict; social isolation,family; friend; workplace,family,loneliness; sadness; anger; hopelessness,loneliness; hopelessness,,
+3090,1706,test,0,1,PBu only,work; health,,family; other,family; other,sadness; hopelessness,hopelessness,professional help; withdrawal; positive coping,professional help; withdrawal
+3091,1532,test,1,1,Both,social isolation,social isolation,,friend,loneliness; shame; hopelessness,loneliness; shame; hopelessness,withdrawal,
+3092,1642,test,0,1,PBu only,health,health,,,hopelessness,hopelessness,,
+3093,3358,test,1,0,TBe only,breakup or romance; health,,partner,,,,advice seeking,advice seeking
+3094,2153,test,0,0,Neither,,health,,,,,,
+3095,31,test,1,0,TBe only,health,health,,,,,emotional support seeking; withdrawal; positive coping,withdrawal
+3096,1011,test,0,1,PBu only,health,health,,,shame; anxiety,,,
+3097,2550,test,1,0,TBe only,social isolation,social isolation; health,other,friend,loneliness; sadness; hopelessness,loneliness; hopelessness,withdrawal,withdrawal
+3098,610,test,0,0,Neither,,,,,,,advice seeking,advice seeking
+3099,2561,test,0,0,Neither,,,,,shame,,,
+3100,3260,test,1,1,Both,social isolation,social isolation,,,loneliness; shame; hopelessness,loneliness; shame; sadness; hopelessness,,
+3101,343,test,0,0,Neither,work,,workplace,,,,withdrawal,
+3102,2953,test,1,1,Both,social isolation; work; health,social isolation; work; health,other,other,loneliness; shame; anxiety; hopelessness,loneliness; shame; anxiety; hopelessness,withdrawal,withdrawal
+3103,1494,test,0,0,Neither,health,health,family,family,anxiety,anxiety,advice seeking,advice seeking; professional help
+3104,3481,test,1,0,TBe only,social isolation; health,health,,,hopelessness,,withdrawal,
+3105,1222,test,0,0,Neither,,,,,,,,
+3106,2884,test,0,0,Neither,health,health,,,guilt; hopelessness,,withdrawal,
+3107,2958,test,1,1,Both,family conflict; breakup or romance; financial; health; abuse,work; health,partner; family,family,guilt; hopelessness,guilt; hopelessness,,
+3108,1846,test,0,0,Neither,health; abuse,health,other,,anger,,withdrawal,
+3109,2447,test,1,0,TBe only,family conflict; financial; work,financial; work,family,family,hopelessness,hopelessness,,
+3110,867,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,loneliness; sadness; hopelessness,loneliness; sadness,,
+3111,3396,test,0,0,Neither,health,,,,anxiety,anxiety; hopelessness,emotional support seeking; withdrawal,
+3112,2420,test,1,0,TBe only,study,study,partner,partner,shame; hopelessness,hopelessness,advice seeking,
+3113,1272,test,0,0,Neither,health,health,other,other,,,advice seeking; professional help; positive coping,emotional support seeking; professional help
+3114,576,test,1,1,Both,breakup or romance; social isolation; study,,friend,friend,shame; anger; hopelessness,hopelessness,withdrawal,
+3115,2515,test,0,0,Neither,family conflict; study; health,health,family,family,anxiety; anger,,,advice seeking
+3116,1720,test,0,1,PBu only,breakup or romance; financial; health,financial; health,,,anger; other,sadness; hopelessness,,
+3117,2861,test,0,0,Neither,health,health,,,sadness,sadness; hopelessness,,
+3118,2228,test,1,0,TBe only,social isolation,,other,,loneliness,,emotional support seeking,emotional support seeking
+3119,528,test,1,1,Both,health,social isolation; health,,,hopelessness,hopelessness,,
+3120,176,test,1,0,TBe only,social isolation,,,,loneliness,,,
+3121,2213,test,1,1,Both,family conflict; health,social isolation; health,family; friend,family; friend,hopelessness; other,shame; hopelessness,advice seeking; withdrawal,advice seeking
+3122,422,test,1,0,TBe only,,health,friend,friend,anger,anger,advice seeking,
+3123,1042,test,1,0,TBe only,social isolation,social isolation; health,friend,friend,loneliness; shame; hopelessness,,professional help,
+3124,1588,test,0,0,Neither,breakup or romance,,partner,partner,anxiety,anxiety,emotional support seeking,emotional support seeking
+3125,1255,test,0,0,Neither,,,,,,,,
+3126,2087,test,1,0,TBe only,social isolation; health,social isolation,friend,friend,loneliness; hopelessness,loneliness; hopelessness,emotional support seeking,
+3127,3132,test,1,0,TBe only,social isolation,,other,,anger,,withdrawal,
+3128,2014,test,0,0,Neither,,,,,,,,
+3129,288,test,1,0,TBe only,family conflict; study,work; health,family,family,sadness; hopelessness,hopelessness,advice seeking; emotional support seeking,advice seeking
+3130,3354,test,0,0,Neither,study,study; health,family; friend,family; friend,hopelessness,hopelessness,withdrawal,
+3131,2335,test,1,0,TBe only,family conflict; health,health,family; other,family,anxiety,anxiety,advice seeking,
+3132,2025,test,1,0,TBe only,study; health,social isolation; health,other,,anxiety; other,loneliness; anxiety,advice seeking; professional help; withdrawal,professional help; withdrawal
+3133,1084,test,1,0,TBe only,social isolation; health,,other,,anxiety; hopelessness,anxiety,,
+3134,177,test,0,0,Neither,social isolation; study; health,health,family,,sadness,,advice seeking; professional help; withdrawal,advice seeking
+3135,1538,test,0,0,Neither,other,,peer,,,,,advice seeking
+3136,2543,test,1,1,Both,breakup or romance; social isolation; abuse,social isolation; health,friend; other,friend,loneliness; hopelessness,loneliness; hopelessness,,
+3137,2678,test,0,0,Neither,financial; study; work; health,breakup or romance; financial; work; health,partner; workplace,partner,shame; anxiety,anxiety; hopelessness,advice seeking,advice seeking
+3138,2167,test,1,0,TBe only,breakup or romance,breakup or romance,partner; friend,partner; friend,shame; sadness,sadness,advice seeking,
+3139,370,test,1,0,TBe only,social isolation,social isolation,,,loneliness; sadness; hopelessness,loneliness,withdrawal; positive coping,withdrawal
+3140,1926,test,1,0,TBe only,social isolation,,other,,loneliness; sadness; anger; hopelessness,sadness,,
+3141,598,test,1,0,TBe only,health,social isolation; health,,,loneliness; guilt; shame; sadness; anger; hopelessness,loneliness; guilt; shame; anger; other,,
+3142,2516,test,0,1,PBu only,family conflict; study; work,family conflict; study,family,family,shame; anger; hopelessness,anger; hopelessness,,
+3143,1878,test,1,0,TBe only,breakup or romance,breakup or romance,partner,partner,hopelessness,hopelessness,emotional support seeking,
+3144,2820,test,1,0,TBe only,social isolation; health; grief; other,social isolation,family; other,family,loneliness; hopelessness,hopelessness,,
+3145,2700,test,1,0,TBe only,breakup or romance; social isolation; financial; work; health; grief,social isolation; work; health,partner; friend; other,family; friend,loneliness; anxiety; hopelessness,anxiety; hopelessness,,
+3146,2682,test,1,1,Both,health,,friend; other,friend,hopelessness; other,hopelessness,emotional support seeking; professional help,advice seeking
+3147,3280,test,0,0,Neither,health,health,other,,,anxiety,advice seeking; professional help,advice seeking; professional help
+3148,3038,test,0,0,Neither,family conflict; health,health,family,family,hopelessness,hopelessness,advice seeking,
+3149,141,test,1,0,TBe only,social isolation,social isolation,other,,loneliness; shame; sadness; hopelessness,loneliness; shame; sadness,,
+3150,2840,test,0,1,PBu only,,,partner,,hopelessness,hopelessness,,
+3151,665,test,1,0,TBe only,health,health,,,sadness,,professional help,
+3152,2866,test,1,1,Both,family conflict; social isolation; health,family conflict; health,family,family; other,loneliness; shame; hopelessness,guilt; shame; hopelessness,professional help; withdrawal,professional help
+3153,1812,test,1,1,Both,breakup or romance; health,breakup or romance; health,partner,partner,,,,
+3154,654,test,0,0,Neither,,,,,,,positive coping,
+3155,471,test,1,1,Both,breakup or romance; social isolation; health,,other,,loneliness; shame; hopelessness,hopelessness,withdrawal,
+3156,2574,test,0,0,Neither,breakup or romance,,partner,partner,guilt; shame,,emotional support seeking,advice seeking
+3157,1226,test,0,0,Neither,social isolation; abuse,social isolation,friend,friend,shame; anxiety; anger,anxiety; hopelessness,withdrawal,
+3158,1094,test,0,0,Neither,,,,,shame; sadness,shame; sadness,,
+3159,2323,test,0,0,Neither,health,,,,,,professional help,
+3160,3455,test,0,0,Neither,health,financial; health,other,,anger,,professional help,
+3161,847,test,1,0,TBe only,health,,,,other,,,
+3162,3070,test,1,0,TBe only,breakup or romance; health,,partner,,shame; anger; hopelessness,shame; anger; hopelessness,,
+3163,3118,test,1,1,Both,other,,family,,loneliness; hopelessness,anxiety; hopelessness,,
+3164,195,test,0,1,PBu only,financial; work; health; grief,family conflict; financial; work; health,family,family,guilt,guilt,advice seeking,advice seeking
+3165,532,test,0,0,Neither,,,,,,,advice seeking,
+3166,1450,test,1,1,Both,social isolation,social isolation,other,,loneliness; hopelessness,hopelessness,emotional support seeking; positive coping,
+3167,2154,test,1,0,TBe only,social isolation; health,social isolation,partner,,,,emotional support seeking,emotional support seeking
+3168,965,test,1,0,TBe only,family conflict; health,health,family,family,hopelessness,,advice seeking,advice seeking
+3169,2499,test,0,0,Neither,,,,,guilt; hopelessness,hopelessness,advice seeking,
+3170,3249,test,1,1,Both,social isolation,,other,,anger; hopelessness,hopelessness,,
+3171,227,test,1,0,TBe only,breakup or romance,breakup or romance; social isolation; health,partner; friend,friend,hopelessness,,advice seeking; professional help,advice seeking; professional help
+3172,555,test,1,1,Both,family conflict; social isolation; health,family conflict; social isolation; health,family; other,family; friend; other,loneliness; shame; hopelessness,loneliness; shame; hopelessness,professional help; withdrawal,emotional support seeking; professional help
+3173,2606,test,0,1,PBu only,,,,,shame; hopelessness,shame; hopelessness,,
+3174,2663,test,0,0,Neither,,,other,,,,advice seeking,advice seeking
+3175,1780,test,0,1,PBu only,,,,,,,advice seeking,
+3176,869,test,0,1,PBu only,,,,,shame; sadness; hopelessness,hopelessness,,
+3177,1211,test,1,0,TBe only,work; health; abuse,social isolation; work; health,other,,shame; hopelessness,loneliness; shame,,
+3178,631,test,1,1,Both,family conflict; work; health,work; health,family; workplace; other,family,sadness,sadness; hopelessness,advice seeking; professional help; positive coping,advice seeking; emotional support seeking; professional help
+3179,2513,test,1,0,TBe only,family conflict; social isolation; study,social isolation,family; other,,loneliness; hopelessness,loneliness,,
+3180,3466,test,0,0,Neither,family conflict; abuse,,family,family,anger,hopelessness,,
+3181,162,test,0,0,Neither,social isolation,breakup or romance,friend,friend,anger,,advice seeking,advice seeking
+3182,1023,test,1,0,TBe only,health,,,,loneliness; sadness; hopelessness; other,loneliness,,
+3183,2375,test,0,1,PBu only,health,health,,,sadness; hopelessness,hopelessness,,
+3184,2344,test,0,0,Neither,study,,,,anxiety,,,
+3185,1929,test,0,1,PBu only,health,breakup or romance; health,partner; friend,partner; friend,sadness,,advice seeking,
+3186,1041,test,0,0,Neither,health,,,,,,,
+3187,547,test,0,0,Neither,health,health,,,sadness; hopelessness,sadness,,
+3188,3421,test,1,1,Both,family conflict; social isolation; work,family conflict; social isolation; work,family; friend; other,family; friend,loneliness; shame; hopelessness,,,
+3189,2902,test,1,0,TBe only,health,,,,,,withdrawal,
+3190,1414,test,1,0,TBe only,breakup or romance; health,,partner,,guilt; shame; sadness; anger,shame,,
+3191,568,test,1,1,Both,social isolation; health,social isolation,other,,loneliness; guilt; sadness; hopelessness; other,loneliness; sadness; hopelessness,,withdrawal
+3192,2850,test,1,0,TBe only,social isolation; health,social isolation; health,,,loneliness; anxiety,loneliness; anxiety; hopelessness,advice seeking; emotional support seeking,advice seeking
+3193,3264,test,0,0,Neither,,,,,,,withdrawal,
+3194,2750,test,1,0,TBe only,social isolation,social isolation,friend,friend,,,positive coping,
+3195,2289,test,1,1,Both,social isolation,social isolation,,,loneliness; sadness; hopelessness,loneliness; hopelessness,advice seeking,
+3196,611,test,0,1,PBu only,health,health,other,,shame; anger; hopelessness,hopelessness,professional help,
+3197,1563,test,0,0,Neither,health,health,other,,anxiety,anxiety,advice seeking; professional help,professional help
+3198,3227,test,1,0,TBe only,social isolation; health,social isolation; health,,,anger,anger,withdrawal,
+3199,1850,test,0,0,Neither,health,,,,guilt; shame,shame,,emotional support seeking
+3200,1055,test,0,0,Neither,health,health,other,,hopelessness,,,
+3201,1029,test,0,0,Neither,health,health,,,other,,advice seeking; professional help,advice seeking; professional help
+3202,761,test,1,0,TBe only,health,health,other,,guilt; anger,,professional help,
+3203,581,test,1,0,TBe only,social isolation; financial,social isolation,family,family; friend,loneliness; anxiety,loneliness; shame; anxiety; hopelessness,emotional support seeking,emotional support seeking
+3204,1957,test,0,0,Neither,health,health,,,sadness; anxiety; hopelessness,sadness; hopelessness,,
+3205,2590,test,0,0,Neither,abuse,,friend,,shame,shame,,
+3206,1614,test,0,0,Neither,health,,,,,,advice seeking,
+3207,73,test,0,1,PBu only,family conflict; financial; work; health; grief,family conflict; financial; work; health,family,family,shame; sadness; anxiety; hopelessness,hopelessness,emotional support seeking,
+3208,48,test,0,0,Neither,financial; work,family conflict; study; work,family; workplace,family,other,anxiety; hopelessness,withdrawal,
+3209,3131,test,1,1,Both,family conflict; breakup or romance; health,family conflict,partner; family,,sadness; anger; hopelessness,sadness; anger; hopelessness,,
+3210,1815,test,1,0,TBe only,health,health,,other,,,advice seeking; professional help,advice seeking; professional help
+3211,871,test,1,0,TBe only,social isolation,social isolation,,,,loneliness,,emotional support seeking
+3212,3137,test,0,0,Neither,study; health,study,,,anxiety,anxiety,withdrawal,
+3213,1966,test,0,0,Neither,health,health,,,,,advice seeking,
+3214,3210,test,1,0,TBe only,health,social isolation; health,friend,friend,loneliness; sadness,loneliness; hopelessness,withdrawal,withdrawal
+3215,2677,test,1,0,TBe only,breakup or romance,health,partner,,,,,
+3216,1407,test,0,0,Neither,health,health,,,hopelessness,hopelessness,,
+3217,1149,test,0,0,Neither,health,health,,,,hopelessness,professional help; positive coping,
+3218,1074,test,0,0,Neither,,social isolation,,friend,anger; hopelessness,,,
+3219,1397,test,0,0,Neither,health,health,,,sadness; hopelessness,sadness,advice seeking; emotional support seeking,advice seeking
+3220,2856,test,0,1,PBu only,,,,,,,advice seeking,
+3221,1424,test,0,0,Neither,other,,,,,hopelessness,advice seeking,emotional support seeking
+3222,572,test,1,0,TBe only,breakup or romance,,partner,,guilt; hopelessness,,,
+3223,811,test,0,1,PBu only,,,,,hopelessness,,,
+3224,2815,test,1,0,TBe only,social isolation; financial; health; grief,family conflict; health,partner; family,partner; family,loneliness; hopelessness,,,
+3225,1128,test,1,0,TBe only,social isolation,social isolation,friend; peer,friend,,,,
+3226,2480,test,0,1,PBu only,health,,,,hopelessness,,,
+3227,2689,test,1,1,Both,study; health,social isolation; financial; study; work,family,family,,hopelessness,,
+3228,2428,test,0,1,PBu only,,,,,,hopelessness,advice seeking,
+3229,969,test,0,0,Neither,health,family conflict; breakup or romance,partner,partner; family,other,,,advice seeking
+3230,2469,test,1,1,Both,health,,family,,loneliness; anxiety; hopelessness,loneliness; hopelessness,,
+3231,1352,test,1,0,TBe only,social isolation,social isolation,friend,friend,loneliness,loneliness,,
+3232,2086,test,1,0,TBe only,health,social isolation; health,family,family; friend,shame; anxiety,anxiety,emotional support seeking,
+3233,1034,test,1,1,Both,breakup or romance; abuse,social isolation,partner; friend,friend,guilt; anxiety; hopelessness,loneliness; shame,,withdrawal
+3234,3283,test,0,0,Neither,,,,,,,advice seeking,
+3235,1611,test,0,0,Neither,work; health,work; health,workplace,friend,sadness; anxiety,hopelessness,,
+3236,3247,test,1,0,TBe only,breakup or romance,social isolation,partner; family,family,anxiety; hopelessness,loneliness; anxiety; hopelessness,advice seeking; withdrawal,withdrawal
+3237,259,test,1,0,TBe only,social isolation; health,social isolation; health,,,loneliness,loneliness,,
+3238,1537,test,1,0,TBe only,social isolation; health,social isolation,friend,friend,loneliness; shame; hopelessness,sadness,advice seeking,emotional support seeking
+3239,3208,test,0,1,PBu only,social isolation,,other,,loneliness; sadness; hopelessness,sadness; hopelessness,,
+3240,3521,test,1,1,Both,health,health,other,,anxiety; hopelessness,anxiety; hopelessness,advice seeking; withdrawal,
+3241,2538,test,1,0,TBe only,study; work; health; grief; abuse,work; health,family; workplace,family; other,anger; hopelessness,hopelessness,positive coping,
+3242,3082,test,1,0,TBe only,breakup or romance; financial,financial,partner; community,partner,anxiety; hopelessness,loneliness; anxiety; hopelessness,positive coping,advice seeking
+3243,926,test,0,0,Neither,,,,,,,,
+3244,3375,test,1,0,TBe only,other,,,,,hopelessness,,
+3245,1894,test,0,0,Neither,,,,,,,,
+3246,1569,test,1,1,Both,family conflict; social isolation,family conflict; social isolation,family; friend,family,loneliness; shame; sadness; hopelessness,loneliness; hopelessness,,
+3247,3194,test,1,0,TBe only,,social isolation,,,,loneliness,emotional support seeking,
+3248,3235,test,1,1,Both,family conflict; social isolation; study,family conflict,family; friend,family; friend,loneliness; sadness; anger,,emotional support seeking; withdrawal,
+3249,2855,test,0,0,Neither,,health,other,,other,,advice seeking; emotional support seeking; professional help,advice seeking
+3250,787,test,1,1,Both,breakup or romance; social isolation; abuse,social isolation; abuse,partner,,loneliness; sadness; hopelessness,hopelessness,,
+3251,3371,test,1,0,TBe only,health,breakup or romance; health; abuse,,family,,loneliness,,
+3252,3480,test,1,0,TBe only,breakup or romance; study; abuse,abuse,peer,,anger,,,
+3253,2644,test,0,0,Neither,health,health,,,shame; anger; hopelessness,hopelessness,,
+3254,2770,test,0,0,Neither,,,,,hopelessness,,,
+3255,1675,test,1,1,Both,social isolation; health; grief,health,partner; family,family,sadness; anger; hopelessness,,advice seeking; emotional support seeking; professional help,professional help
+3256,2416,test,0,1,PBu only,,,,,sadness; hopelessness,hopelessness,,
+3257,1674,test,1,1,Both,health,social isolation; health,,,loneliness; sadness; anxiety; hopelessness,loneliness; sadness; anxiety; hopelessness,withdrawal,
+3258,1468,test,1,0,TBe only,health,health,,,hopelessness; other,other,emotional support seeking,emotional support seeking
+3259,3238,test,1,1,Both,breakup or romance; social isolation; study; work,social isolation,other,friend,shame; hopelessness,shame; hopelessness,advice seeking,
+3260,3519,test,0,0,Neither,health,,other,,guilt,guilt,professional help,advice seeking
+3261,2676,test,1,0,TBe only,health,health,,,other,sadness; other,,
+3262,2892,test,1,1,Both,social isolation; study; work,,family,family; friend,hopelessness,hopelessness,withdrawal,
+3263,108,test,1,0,TBe only,breakup or romance; financial; study; work; health,health,other,,anger; hopelessness,hopelessness,,
+3264,2404,test,1,1,Both,social isolation; study; health,health,friend,friend,loneliness; sadness,,withdrawal,
+3265,1204,test,1,1,Both,health,health,other,,shame; sadness; hopelessness; other,sadness; hopelessness,advice seeking,
+3266,2179,test,0,0,Neither,health,health,family,,,,advice seeking,advice seeking
+3267,318,test,1,0,TBe only,breakup or romance; social isolation; study,social isolation,partner,partner,loneliness; guilt; shame; hopelessness,,professional help,
+3268,59,test,0,0,Neither,breakup or romance,breakup or romance,other,,,,,
+3269,1565,test,0,0,Neither,study; health,health,,,anxiety,,advice seeking,
+3270,1362,test,0,0,Neither,health,health,other,,hopelessness; other,hopelessness,advice seeking; professional help,advice seeking; professional help
+3271,1080,test,0,0,Neither,work; health,work; health,partner; family,family,sadness; anger; hopelessness,sadness; anger,professional help; withdrawal; positive coping,advice seeking; professional help
+3272,3348,test,0,0,Neither,health,health,,,hopelessness,hopelessness,,
+3273,3432,test,0,1,PBu only,social isolation; health,social isolation; health,family; other,family,loneliness; guilt,loneliness; anxiety; hopelessness,professional help,
+3274,2004,test,1,0,TBe only,,social isolation,,,shame; sadness,loneliness; hopelessness,withdrawal,
+3275,765,test,1,0,TBe only,social isolation; work; health; other,health,friend,friend,shame; hopelessness,hopelessness,,
+3276,864,test,1,0,TBe only,social isolation,,,,loneliness; sadness,loneliness,,
+3277,1345,test,0,0,Neither,,,,,,,,
+3278,3345,test,0,1,PBu only,work; health,,,,sadness,sadness; hopelessness,advice seeking,
+3279,1174,test,0,0,Neither,family conflict; health,health,family,,,,emotional support seeking,
+3280,3022,test,0,0,Neither,,,,other,,hopelessness,,
+3281,727,test,0,0,Neither,,,,,hopelessness,,,
+3282,1864,test,1,0,TBe only,work,,family,,,,,
+3283,2749,test,1,0,TBe only,health; grief,social isolation,family; friend,friend,sadness; anxiety; other,sadness; anxiety,advice seeking,advice seeking
+3284,220,test,1,0,TBe only,health; grief,family conflict; health,family,family; other,sadness; anxiety; hopelessness,sadness; hopelessness,professional help,professional help
+3285,2441,test,0,1,PBu only,health,social isolation; health,family; friend,family; friend; other,hopelessness,hopelessness,emotional support seeking; professional help,emotional support seeking; professional help
+3286,582,test,1,0,TBe only,,,,,sadness; hopelessness,hopelessness,,
+3287,2348,test,1,1,Both,study; health; grief,study; health,family,family,sadness; anxiety,sadness; anxiety,,
+3288,978,test,0,0,Neither,work; health,work; health,family; workplace,family,guilt; shame; sadness; anxiety; anger,hopelessness,advice seeking; professional help,advice seeking
+3289,838,test,0,1,PBu only,,,,,,,,
+3290,56,test,0,0,Neither,breakup or romance,,other,,shame; anger,,,
+3291,187,test,1,0,TBe only,social isolation,social isolation,other,,loneliness,loneliness; hopelessness,emotional support seeking,
+3292,2328,test,1,1,Both,social isolation,social isolation,,family,shame; hopelessness,shame; hopelessness,,
+3293,2029,test,1,0,TBe only,social isolation; study; health,social isolation; health,partner; family; friend,partner; friend,shame; sadness,,advice seeking; withdrawal,emotional support seeking
+3294,2493,test,1,1,Both,family conflict; social isolation; study; work; health,social isolation; study; work,family,family; friend,hopelessness,,advice seeking; emotional support seeking,advice seeking
+3295,3231,test,1,1,Both,family conflict; breakup or romance; social isolation,family conflict; breakup or romance; social isolation,partner; family; friend,family; friend,guilt; shame; sadness; hopelessness,shame; anger; hopelessness,,
+3296,1173,test,0,0,Neither,breakup or romance,,other,,,,,
+3297,468,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,shame; sadness; hopelessness,sadness,withdrawal,
+3298,1105,test,1,1,Both,family conflict; social isolation; financial; work; health,social isolation; financial; health,family; other,family,loneliness; hopelessness,hopelessness,advice seeking; emotional support seeking; withdrawal,advice seeking
+3299,2293,test,1,1,Both,breakup or romance,,partner; family,family,other,hopelessness; other,,
+3300,2195,test,1,0,TBe only,,social isolation,,,,hopelessness,,
+3301,226,test,1,1,Both,social isolation,,,,loneliness; shame; sadness; anger; hopelessness,shame; sadness; anger; hopelessness,,
+3302,535,test,1,0,TBe only,breakup or romance,,other,,shame,,,
+3303,2957,test,0,1,PBu only,other,,other,,guilt,guilt; hopelessness,advice seeking,
+3304,842,test,0,0,Neither,health,health,,,,,advice seeking; professional help; withdrawal,
+3305,1171,test,0,0,Neither,,,,,shame,,withdrawal,
+3306,2974,test,1,0,TBe only,family conflict; social isolation; financial; work; health; grief,family conflict; social isolation; financial; health,partner; family; friend,family; friend,loneliness; guilt; sadness; hopelessness; other,loneliness; guilt; sadness,withdrawal,withdrawal
+3307,2468,test,1,0,TBe only,social isolation,,other,,anger,anger,,
+3308,2299,test,0,0,Neither,,,,,,,,
+3309,2457,test,1,1,Both,study,,,,hopelessness; other,hopelessness,,
+3310,210,test,0,1,PBu only,financial; study; work; health,financial; work; health,partner; family; friend,family; friend,sadness; anxiety; hopelessness; other,loneliness,advice seeking; professional help; withdrawal,advice seeking; professional help
+3311,2812,test,0,0,Neither,,social isolation,friend,friend,shame,,,emotional support seeking
+3312,69,test,0,1,PBu only,family conflict; social isolation; financial; work,health,family; other,family,anxiety; anger; hopelessness,sadness; anxiety; hopelessness,,
+3313,734,test,0,0,Neither,health,family conflict,family; friend,family; friend,,,,
+3314,1626,test,0,0,Neither,study,,peer,,,,,
+3315,3193,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend; other,loneliness; shame; sadness; anger; hopelessness,loneliness; shame; hopelessness,professional help; positive coping,
+3316,3079,test,0,0,Neither,,,family,family,guilt; shame; hopelessness,anger,,
+3317,376,test,1,1,Both,social isolation,social isolation,friend; other,other,loneliness; shame; sadness; hopelessness,loneliness; hopelessness,,
+3318,436,test,0,0,Neither,health,,other,,,,professional help,
+3319,2487,test,1,1,Both,social isolation,social isolation; health,family; friend,friend,loneliness; sadness,loneliness,advice seeking,advice seeking
+3320,2333,test,1,0,TBe only,social isolation; health,health,friend,,loneliness; hopelessness,,,
+3321,2417,test,1,1,Both,social isolation; study; health,social isolation,friend; other,friend; other,loneliness; shame; hopelessness,loneliness; shame; hopelessness,emotional support seeking; professional help; withdrawal,professional help
+3322,208,test,0,1,PBu only,family conflict; abuse,family conflict; breakup or romance,family; friend,partner; family; friend,other,anxiety; anger,advice seeking; withdrawal,advice seeking
+3323,2571,test,1,1,Both,social isolation; study,social isolation; study,friend; other,friend,loneliness; shame; sadness; hopelessness,loneliness; shame; hopelessness,withdrawal,withdrawal
+3324,565,test,1,0,TBe only,,,,,guilt,guilt; hopelessness,withdrawal,
+3325,313,test,1,0,TBe only,health,health,other,other,anxiety,anxiety,emotional support seeking,professional help
+3326,601,test,0,1,PBu only,health,,,,sadness; hopelessness,hopelessness,advice seeking,advice seeking
+3327,233,test,0,0,Neither,financial; work,,workplace,,anxiety; hopelessness,anger; hopelessness,advice seeking; emotional support seeking,
+3328,1837,test,0,1,PBu only,,,,,shame; hopelessness,hopelessness,advice seeking,
+3329,2846,test,1,1,Both,family conflict; grief; abuse,family conflict; abuse,family,family,shame; sadness; hopelessness,sadness; hopelessness,,
+3330,1070,test,0,0,Neither,health,health,other,,hopelessness,hopelessness,advice seeking,advice seeking
+3331,12,test,1,0,TBe only,social isolation; health,social isolation,other,,loneliness; sadness; hopelessness,loneliness; sadness; hopelessness,emotional support seeking,
+3332,111,test,0,0,Neither,breakup or romance,,partner,,hopelessness,sadness,,
+3333,1587,test,1,0,TBe only,health,health,,,loneliness; sadness; anxiety,loneliness; anxiety,withdrawal,
+3334,2064,test,0,0,Neither,,,,,,,,
+3335,2016,test,1,1,Both,,,,,,,,
+3336,949,test,1,1,Both,social isolation; work; health,social isolation; study; work,partner; family; workplace,family,loneliness,loneliness,advice seeking; emotional support seeking; withdrawal,advice seeking
+3337,1228,test,1,0,TBe only,breakup or romance; health,,friend; workplace,friend,sadness; anxiety; anger,sadness; anxiety,,
+3338,2495,test,0,0,Neither,health,health,,,sadness; anxiety; hopelessness,sadness; anxiety,,
+3339,472,test,0,0,Neither,other,,,,anger; hopelessness,hopelessness,,
+3340,490,test,1,0,TBe only,,social isolation,,friend,shame; sadness,shame; sadness,,
+3341,2954,test,0,0,Neither,breakup or romance,,other,family,shame; anger,hopelessness,advice seeking,
+3342,2440,test,1,1,Both,social isolation,social isolation,,,loneliness; hopelessness,loneliness,emotional support seeking,
+3343,831,test,1,0,TBe only,family conflict; abuse,family conflict; breakup or romance,family,family,sadness; anxiety; hopelessness,sadness; anxiety,withdrawal,
+3344,2010,test,1,0,TBe only,social isolation,health,friend,,,,,
+3345,1116,test,1,1,Both,,social isolation,,,loneliness,loneliness; hopelessness,,
+3346,3189,test,1,0,TBe only,social isolation,social isolation,,,loneliness; anxiety,,,
+3347,1497,test,0,0,Neither,,,,,shame,,,
+3348,905,test,1,1,Both,family conflict; social isolation; health,social isolation; health,family; workplace,family,loneliness; sadness; hopelessness,loneliness; sadness; anxiety; hopelessness,professional help; withdrawal,professional help
+3349,1584,test,1,0,TBe only,breakup or romance; social isolation,social isolation,,friend,shame,,withdrawal,
+3350,2563,test,0,1,PBu only,,,,,hopelessness,,,
+3351,1068,test,1,0,TBe only,social isolation,,friend,,loneliness,loneliness,,
+3352,1338,test,1,0,TBe only,social isolation; health; grief; abuse; other,health; abuse,family,family; friend,,,advice seeking,advice seeking
+3353,655,test,1,0,TBe only,social isolation,social isolation,family; friend,friend,loneliness; anxiety; hopelessness,loneliness; anxiety,,withdrawal
+3354,1624,test,1,0,TBe only,,health,,,sadness,,advice seeking,advice seeking
+3355,361,test,1,1,Both,social isolation; abuse,social isolation,other,,loneliness; shame; hopelessness,loneliness; hopelessness,,
+3356,135,test,1,0,TBe only,breakup or romance; study; work,breakup or romance; study; work,partner,partner,shame; sadness; hopelessness,sadness; hopelessness,withdrawal; positive coping,advice seeking; withdrawal
+3357,2351,test,0,0,Neither,health,,,,,,withdrawal,
+3358,2548,test,0,0,Neither,,,,,,hopelessness,,
+3359,3165,test,1,0,TBe only,social isolation; health,work; health,other,,shame; anxiety; hopelessness,anxiety,professional help; withdrawal,professional help
+3360,2651,test,1,0,TBe only,family conflict; social isolation; financial; health,family conflict; social isolation; health,family,family,anxiety,anxiety,withdrawal,
+3361,366,test,0,0,Neither,study,health,,,anxiety; hopelessness,,emotional support seeking,emotional support seeking
+3362,2181,test,1,0,TBe only,social isolation; health,social isolation,other,,loneliness; guilt; shame; sadness; anxiety; hopelessness,loneliness; anxiety,,
+3363,3153,test,1,0,TBe only,study,study,peer,,sadness,hopelessness,professional help; withdrawal,professional help
+3364,29,test,0,1,PBu only,abuse,,,,hopelessness; other,hopelessness,emotional support seeking,
+3365,2925,test,0,1,PBu only,breakup or romance,,,,hopelessness,hopelessness,,
+3366,22,test,0,0,Neither,financial,health,family; friend,friend,shame; sadness,,emotional support seeking,emotional support seeking
+3367,1877,test,1,0,TBe only,health,social isolation,,,,,advice seeking,
+3368,1233,test,0,0,Neither,health,health,,,,,advice seeking; professional help,emotional support seeking
+3369,2962,test,1,1,Both,social isolation,,,,sadness,,withdrawal,withdrawal
+3370,2871,test,1,1,Both,abuse,social isolation,family; friend,family; friend,loneliness,loneliness,,
+3371,695,test,0,1,PBu only,health,health,community; other,,,,,
+3372,3307,test,0,0,Neither,study; health,health,,,sadness; anxiety,sadness; anxiety; hopelessness,,
+3373,700,test,0,0,Neither,work,,,,anger,,,
+3374,420,test,1,0,TBe only,breakup or romance; social isolation,breakup or romance; study,partner,partner,loneliness; sadness; hopelessness,loneliness; sadness; hopelessness,emotional support seeking,withdrawal
+3375,682,test,0,1,PBu only,,,,,sadness; anger; hopelessness,hopelessness,,
+3376,2274,test,1,0,TBe only,social isolation; health; grief,social isolation; health,family; friend; other,family; friend,sadness; hopelessness; other,loneliness; hopelessness,advice seeking; professional help,advice seeking; emotional support seeking
+3377,460,test,0,0,Neither,family conflict,,family,family,,,,
+3378,43,test,0,0,Neither,health; abuse,health,other,,anger,,,
+3379,87,test,1,0,TBe only,breakup or romance; social isolation; abuse,health; abuse,partner; other,,shame; anxiety; hopelessness,anxiety,advice seeking; professional help; withdrawal,advice seeking; professional help
+3380,1398,test,1,1,Both,health,health,,,hopelessness,hopelessness,advice seeking; emotional support seeking,advice seeking
+3381,921,test,1,0,TBe only,family conflict; breakup or romance; financial; work,financial; work; health,family,,sadness; anger; hopelessness,anger; hopelessness,advice seeking,
+3382,2990,test,1,1,Both,work; health,social isolation,family; friend,family; friend,shame; anger; hopelessness,shame; hopelessness,withdrawal,withdrawal
+3383,561,test,1,0,TBe only,social isolation; work; health,,friend,friend,loneliness,loneliness,,
+3384,282,test,0,0,Neither,health,health,,,sadness,,advice seeking,
+3385,1159,test,0,0,Neither,health,health,,,,anxiety,advice seeking; professional help,
+3386,2789,test,1,1,Both,breakup or romance; study; work; health,work; health,partner,partner,hopelessness,hopelessness,,
+3387,3097,test,0,0,Neither,,,family; friend,family; friend,anger,,,
+3388,3341,test,1,1,Both,social isolation,,,,anxiety; hopelessness,anxiety; hopelessness,advice seeking,advice seeking
+3389,1322,test,0,0,Neither,,,,,hopelessness,hopelessness,,
+3390,465,test,1,1,Both,breakup or romance; social isolation; health,social isolation,partner; family; friend,partner; family; friend,loneliness; guilt; anxiety,anxiety,advice seeking; positive coping,advice seeking
+3391,990,test,1,0,TBe only,,,,,other,,advice seeking,
+3392,2567,test,1,0,TBe only,,,,,,,advice seeking; emotional support seeking,
+3393,859,test,1,1,Both,health,health,,,anxiety; hopelessness,hopelessness,withdrawal,
+3394,533,test,1,0,TBe only,social isolation; health,health,family,family,loneliness; shame; sadness; hopelessness,loneliness; hopelessness,,
+3395,1490,test,0,0,Neither,financial,financial,family,,sadness; anxiety; anger,hopelessness,,
+3396,3177,test,1,0,TBe only,health,social isolation; health,friend,friend,hopelessness,hopelessness,advice seeking; professional help,advice seeking
+3397,3472,test,0,1,PBu only,financial; study; health,study; health,,,other,hopelessness,withdrawal,
+3398,1110,test,0,0,Neither,,,,,shame; sadness,,,
+3399,2759,test,0,1,PBu only,,work,,,hopelessness,,,
+3400,3254,test,1,0,TBe only,study; health,health,other,,loneliness; anxiety,loneliness; anxiety,emotional support seeking,
+3401,3304,test,1,0,TBe only,breakup or romance,,partner,,sadness; hopelessness,hopelessness,,
+3402,2486,test,0,0,Neither,,,,,,hopelessness,,
+3403,3129,test,1,0,TBe only,breakup or romance; social isolation; study; health; grief,social isolation; health,family,,loneliness; sadness; anxiety; hopelessness,loneliness; anxiety; hopelessness,advice seeking; emotional support seeking,advice seeking; emotional support seeking
+3404,3468,test,1,0,TBe only,breakup or romance; health,breakup or romance; social isolation; health,partner,friend,shame; sadness; anger,,emotional support seeking,
+3405,2801,test,1,0,TBe only,breakup or romance; health,breakup or romance; health,partner,partner,shame; sadness,loneliness,emotional support seeking,
+3406,1018,test,0,0,Neither,,social isolation,friend; other,friend,shame; anxiety,shame; anxiety,,
+3407,1292,test,1,1,Both,social isolation,,family; friend,family; friend,loneliness; hopelessness,hopelessness,,
+3408,903,test,1,0,TBe only,social isolation,social isolation,,,sadness; hopelessness,loneliness; anger,,
+3409,637,test,1,0,TBe only,social isolation,,peer,,loneliness,,,
+3410,1104,test,1,1,Both,social isolation; health; grief,social isolation; health,family; other,family,loneliness,loneliness; anxiety,positive coping,
+3411,1075,test,0,0,Neither,,,,,,,,
+3412,997,test,0,0,Neither,health,health,,,sadness; hopelessness,,advice seeking,advice seeking
+3413,2755,test,1,1,Both,breakup or romance; abuse,,partner; other,,anxiety; hopelessness,anxiety; hopelessness,advice seeking,
+3414,942,test,1,1,Both,health,health,other,other,,,professional help,professional help
+3415,2577,test,0,1,PBu only,health,health,,,other,hopelessness,advice seeking,emotional support seeking
+3416,3384,test,1,1,Both,study; health,study; health,,,sadness; hopelessness,sadness; hopelessness,withdrawal,withdrawal
+3417,1992,test,0,0,Neither,health,health,other,other,anxiety; other,anxiety,advice seeking,advice seeking; professional help
+3418,2540,test,1,0,TBe only,,,,,hopelessness,hopelessness,,
+3419,3407,test,1,1,Both,breakup or romance; health,health,partner; other,,guilt; sadness; hopelessness,,emotional support seeking; professional help; withdrawal,professional help
+3420,221,test,0,0,Neither,study; work; health,study; health,family,family,sadness; hopelessness,hopelessness,advice seeking,
+3421,543,test,0,0,Neither,,health,friend,,anger,,advice seeking,advice seeking; emotional support seeking
+3422,1820,test,1,1,Both,social isolation,social isolation,peer,,loneliness; shame,,,
+3423,1164,test,0,0,Neither,,,,,anger,,,
+3424,887,test,1,0,TBe only,,,,,hopelessness; other,,,
+3425,3225,test,1,1,Both,health,health,family,family,shame; sadness; hopelessness,shame; anxiety; hopelessness,advice seeking; withdrawal,
+3426,685,test,1,0,TBe only,study,social isolation,friend,friend,hopelessness,loneliness,withdrawal,withdrawal
+3427,3368,test,1,1,Both,health,social isolation; health,family; friend,family; friend,sadness; anxiety; hopelessness,shame; sadness; anxiety; hopelessness,withdrawal,withdrawal
+3428,2905,test,0,1,PBu only,work,,,,hopelessness,,withdrawal,
+3429,2673,test,0,1,PBu only,study; work,,,,shame; anger; hopelessness,shame; anger; hopelessness,,
+3430,3196,test,0,0,Neither,study,,,,shame; anger; hopelessness,shame,withdrawal,withdrawal
+3431,2053,test,1,0,TBe only,breakup or romance; social isolation; health,breakup or romance; social isolation,partner; family; friend,partner; family; friend,loneliness; sadness; anxiety; hopelessness; other,loneliness; sadness; hopelessness,emotional support seeking,
+3432,789,test,0,0,Neither,,,,,shame; sadness; anxiety,shame; anxiety,,
+3433,3102,test,1,0,TBe only,social isolation; study; health; other,social isolation; health,,family,anxiety; hopelessness,hopelessness,advice seeking,professional help
+3434,3276,test,1,0,TBe only,family conflict; breakup or romance; financial; work; abuse,family conflict; social isolation,partner; family,family,loneliness; shame; anxiety; hopelessness,loneliness; sadness; anxiety; hopelessness,emotional support seeking; professional help,emotional support seeking
+3435,2841,test,0,0,Neither,work,,workplace,,guilt; shame; hopelessness,shame; hopelessness,withdrawal,
+3436,2148,test,1,0,TBe only,,social isolation,,friend,,shame; hopelessness,emotional support seeking,advice seeking
+3437,1163,test,0,0,Neither,,,friend,friend,guilt; shame,,,
+3438,2858,test,1,0,TBe only,social isolation,health,,,hopelessness,hopelessness,advice seeking; withdrawal,
+3439,1210,test,0,1,PBu only,financial,,,,sadness; hopelessness,hopelessness,,
+3440,2238,test,0,1,PBu only,health,health,other,,anxiety,anxiety,advice seeking; professional help,advice seeking; professional help
+3441,2295,test,0,1,PBu only,health,,other,,hopelessness,hopelessness,professional help,
+3442,1745,test,0,0,Neither,,,,,,,withdrawal,
+3443,272,test,1,0,TBe only,social isolation; health; grief,social isolation; health,family; friend,family; friend,loneliness; sadness,sadness,advice seeking; professional help; withdrawal,advice seeking; professional help; withdrawal
+3444,2271,test,1,1,Both,social isolation; abuse,social isolation; study,friend; peer,,loneliness; shame; hopelessness,shame,,
+3445,521,test,1,0,TBe only,social isolation; health,,,,loneliness,,withdrawal,
+3446,522,test,1,0,TBe only,work,social isolation; health,partner,partner; friend,sadness; anxiety,loneliness; sadness; anxiety,advice seeking; emotional support seeking,advice seeking; withdrawal
+3447,2073,test,1,0,TBe only,social isolation,,friend,friend,loneliness,,emotional support seeking,
+3448,3142,test,1,0,TBe only,health,social isolation; health,community,,loneliness; sadness; hopelessness,loneliness; sadness; hopelessness,emotional support seeking,
+3449,985,test,0,1,PBu only,health,,,,sadness,sadness; anger,advice seeking,advice seeking
+3450,1288,test,0,1,PBu only,health,,other,,guilt; hopelessness,hopelessness,professional help; positive coping,
+3451,1242,test,1,0,TBe only,social isolation; health,social isolation; health,friend; peer,friend,loneliness; anxiety; anger; hopelessness,loneliness; anxiety,withdrawal,advice seeking
+3452,350,test,1,0,TBe only,social isolation; financial; work; health; abuse,social isolation; health,family; friend,family; friend,loneliness,loneliness,,emotional support seeking
+3453,1270,test,0,0,Neither,family conflict; health,health,family; other,family,shame; anxiety,,advice seeking; professional help,advice seeking
+3454,2555,test,0,0,Neither,health; abuse,,other,,shame; anxiety; anger,anxiety,,
+3455,2473,test,1,1,Both,social isolation,social isolation,other,friend,loneliness; shame; hopelessness,shame; anxiety; hopelessness,professional help,
+3456,2748,test,1,0,TBe only,breakup or romance,,partner,,sadness; hopelessness,,,
+3457,3475,test,0,1,PBu only,,,,other,guilt; shame,,,
+3458,2713,test,1,0,TBe only,social isolation; health,,other,,sadness; hopelessness,hopelessness,,
+3459,1835,test,0,0,Neither,breakup or romance; health,health,partner,,anger,hopelessness,professional help,advice seeking
+3460,651,test,1,0,TBe only,,,,,sadness; hopelessness,hopelessness,withdrawal,withdrawal
+3461,2922,test,1,0,TBe only,breakup or romance; social isolation; study; abuse,social isolation,partner,partner,loneliness; shame; hopelessness,hopelessness,,
+3462,1175,test,0,0,Neither,other,health,other,,anxiety,anxiety,emotional support seeking,
+3463,3101,test,1,0,TBe only,,,,,hopelessness,hopelessness,,
+3464,3034,test,0,0,Neither,health,,friend,friend,sadness; hopelessness,sadness; hopelessness,,
+3465,3261,test,0,1,PBu only,health,health,family; other,family; other,sadness; hopelessness,anxiety; hopelessness,professional help,professional help
+3466,1132,test,0,0,Neither,family conflict,,family,family,,,emotional support seeking,
+3467,1539,test,0,0,Neither,work; health,work; health,workplace,,anxiety,,,
+3468,1340,test,1,0,TBe only,social isolation; study; work; health,health,friend,friend,anxiety; hopelessness,anxiety; hopelessness,advice seeking; professional help; withdrawal,advice seeking
+3469,2149,test,0,0,Neither,health,health,other,,shame,shame,positive coping,
+3470,168,test,1,0,TBe only,breakup or romance; social isolation; financial; health,breakup or romance; social isolation; health,partner; other,friend,loneliness; sadness; anxiety; hopelessness; other,hopelessness,emotional support seeking; professional help,emotional support seeking; professional help
+3471,2929,test,1,0,TBe only,social isolation; study,social isolation,family; friend,family; friend,loneliness; shame; sadness; anger; hopelessness,sadness; anxiety; hopelessness,withdrawal,
+3472,2566,test,1,1,Both,social isolation,social isolation,,,shame,shame,,
+3473,3266,test,1,1,Both,social isolation,,other,,anger; hopelessness,shame,emotional support seeking,
+3474,3353,test,1,0,TBe only,family conflict; study; health,family conflict; study; health,family; friend,family; friend,guilt; shame; sadness; anxiety; hopelessness,anxiety; hopelessness,withdrawal; positive coping,
+3475,803,test,0,0,Neither,social isolation,,,,anger,anger,,
+3476,2862,test,1,0,TBe only,health,social isolation; financial; health,friend,family; friend,loneliness; shame; hopelessness,loneliness; guilt; hopelessness,withdrawal,
+3477,962,test,0,1,PBu only,,work,,,hopelessness,hopelessness,,
+3478,945,test,1,0,TBe only,social isolation,social isolation,other,,sadness,,,
+3479,462,test,1,0,TBe only,health,health,other,,sadness; anger; hopelessness,sadness,emotional support seeking; professional help,professional help
+3480,1426,test,1,0,TBe only,breakup or romance; study; health,breakup or romance; health,partner,partner,guilt; sadness; anxiety; hopelessness,anxiety; hopelessness,,
+3481,328,test,1,1,Both,breakup or romance; health; abuse,breakup or romance; social isolation; study; health; abuse,partner; friend; peer,partner; friend,shame; hopelessness,,withdrawal,
+3482,1457,test,1,0,TBe only,social isolation,,other,,anger; hopelessness,,,
+3483,2756,test,1,1,Both,social isolation; health,health,friend,friend,guilt; sadness; hopelessness,sadness; hopelessness,advice seeking,advice seeking; emotional support seeking
+3484,1117,test,1,0,TBe only,health,,family,,guilt; shame; sadness; anger; hopelessness,loneliness; shame; sadness; hopelessness,emotional support seeking; withdrawal,
+3485,2952,test,0,0,Neither,work,,,,,,,
+3486,1717,test,0,0,Neither,breakup or romance,,partner,,other,,advice seeking,advice seeking
+3487,2621,test,0,0,Neither,study; health,health,,,anxiety,,advice seeking; professional help,advice seeking
+3488,219,test,1,0,TBe only,social isolation; health,social isolation; health,friend,friend,sadness; anxiety; hopelessness,anxiety,withdrawal,withdrawal
+3489,367,test,1,0,TBe only,work,,workplace,,loneliness; anger; hopelessness,loneliness,,
+3490,3042,test,0,0,Neither,family conflict; study; abuse,,family,,hopelessness,hopelessness,,
+3491,2671,test,1,0,TBe only,social isolation,,other,,loneliness,,,
+3492,2155,test,1,0,TBe only,social isolation; health,social isolation,friend,friend,loneliness; shame; hopelessness,loneliness; shame; hopelessness,withdrawal,
+3493,1446,test,0,0,Neither,,,other,,guilt; shame; hopelessness,shame,positive coping,
+3494,772,test,1,0,TBe only,breakup or romance,,partner,,sadness; hopelessness,sadness; hopelessness,withdrawal,
+3495,2246,test,1,0,TBe only,financial,,family,family,shame,,,
+3496,3151,test,1,0,TBe only,,,,,shame; anger,,,
+3497,3373,test,0,0,Neither,study; health,study; health,,,sadness,,withdrawal,withdrawal
+3498,498,test,0,0,Neither,breakup or romance,breakup or romance,friend,friend,sadness; other,,advice seeking,
+3499,1187,test,1,1,Both,family conflict; social isolation; financial; study; work; health; abuse,family conflict; social isolation; financial; work; health,partner; family,partner; family; friend,loneliness; anxiety,loneliness; anxiety; hopelessness,advice seeking; emotional support seeking; professional help,advice seeking; professional help
+3500,435,test,1,0,TBe only,breakup or romance; social isolation; study; health; abuse,study; health,friend; peer,friend,loneliness,,advice seeking; withdrawal,advice seeking
+3501,365,test,1,0,TBe only,breakup or romance,,other,,shame; hopelessness,,,
+3502,2003,test,1,0,TBe only,health,,,,shame; sadness; anger; hopelessness,shame; sadness; anger; hopelessness,,withdrawal
+3503,276,test,0,0,Neither,study,,,,anger; hopelessness,,,
+3504,2340,test,1,1,Both,social isolation,,other,,loneliness; hopelessness; other,hopelessness,advice seeking; withdrawal,emotional support seeking
+3505,1330,test,1,0,TBe only,breakup or romance; social isolation,,,other,loneliness,loneliness,,emotional support seeking
+3506,407,test,1,1,Both,health,,family,family,,,advice seeking; withdrawal,advice seeking; withdrawal
+3507,1694,test,0,0,Neither,breakup or romance,,partner,other,anxiety,,,
+3508,1047,test,1,0,TBe only,breakup or romance; abuse,breakup or romance; social isolation; health,partner; other,friend,sadness,anger,withdrawal,
+3509,844,test,1,1,Both,financial; work,work; health,,,hopelessness,,,
+3510,1502,test,0,1,PBu only,health,social isolation; health,,family; friend,,hopelessness,advice seeking,
+3511,1513,test,1,0,TBe only,social isolation,social isolation; work,partner,partner; friend,loneliness; sadness; other,loneliness; sadness; hopelessness,advice seeking,advice seeking
+3512,3100,test,1,0,TBe only,family conflict; social isolation; study; health,social isolation; health,family; friend,friend,anxiety,sadness; anxiety,professional help; withdrawal; positive coping,withdrawal
+3513,3084,test,0,0,Neither,study; health,health,,,guilt; shame; anxiety; hopelessness,guilt; shame; sadness; anxiety,,
+3514,1608,test,0,0,Neither,,,,,,,,
+3515,1320,test,1,0,TBe only,social isolation; health,,,,loneliness,,emotional support seeking,
+3516,1146,test,0,0,Neither,financial; health,health,,other,anxiety,,advice seeking; emotional support seeking; professional help,advice seeking; professional help
+3517,2273,test,0,1,PBu only,health,health,other,other,sadness; anxiety; anger; hopelessness,shame; sadness; anxiety; anger; hopelessness,,
+3518,2895,test,0,1,PBu only,family conflict,,family,family,anger; hopelessness,hopelessness,,
+3519,1883,test,0,0,Neither,health,health,,,other,,emotional support seeking,advice seeking
+3520,944,test,0,0,Neither,,,,,,,,
+3521,199,test,1,1,Both,family conflict,,family,family,guilt; sadness; anxiety; hopelessness,anxiety; hopelessness,withdrawal; positive coping,

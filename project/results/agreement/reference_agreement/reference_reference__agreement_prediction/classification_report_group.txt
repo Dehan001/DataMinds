@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    tbe only     1.0000    1.0000    1.0000       101
+    pbu only     1.0000    1.0000    1.0000        43
+        both     1.0000    1.0000    1.0000        54
+     neither     1.0000    1.0000    1.0000       103
+
+    accuracy                         1.0000       301
+   macro avg     1.0000    1.0000    1.0000       301
+weighted avg     1.0000    1.0000    1.0000       301

@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     partner     0.5755    0.5839    0.5797       137
+      family     0.7067    0.7970    0.7491       266
+      friend     0.6813    0.8424    0.7533       203
+        peer     1.0000    0.0800    0.1481        25
+   workplace     0.9167    0.2558    0.4000        43
+   community     0.0000    0.0000    0.0000         9
+       other     0.3968    0.5025    0.4435       199
+
+   micro avg     0.6025    0.6531    0.6268       882
+   macro avg     0.6110    0.4374    0.4391       882
+weighted avg     0.6219    0.6531    0.6131       882
+ samples avg     0.3248    0.3821    0.3338       882

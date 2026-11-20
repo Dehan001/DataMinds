@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+  loneliness     0.9565    0.1982    0.3284       111
+       guilt     1.0000    0.0244    0.0476        41
+       shame     1.0000    0.0490    0.0935       102
+     sadness     1.0000    0.0417    0.0800       120
+     anxiety     0.8750    0.0778    0.1429        90
+       anger     1.0000    0.0308    0.0597        65
+hopelessness     0.8267    0.7293    0.7749       229
+       other     0.0000    0.0000    0.0000        31
+
+   micro avg     0.8496    0.2649    0.4039       789
+   macro avg     0.8323    0.1439    0.1909       789
+weighted avg     0.8900    0.2649    0.3191       789
+ samples avg     0.3761    0.2096    0.2550       789
